@@ -1,20 +1,20 @@
 [[main]]
-  name = "Over mij"
-  url = "/over-mij/"
+  name = "關於"
+  url = "/about/"
   weight = 10
 
 [[main]]
-  name = "Blog"
+  name = "部落格"
   url = "/blog/"
   weight = 20
 
 [[main]]
-  name = "Projecten"
-  url = "/projecten/"
+  name = "作品"
+  url = "/projects/"
   weight = 30
 
 [[main]]
-  name = "Tags"
+  name = "標籤"
   url = "/tags/"
   weight = 40
 

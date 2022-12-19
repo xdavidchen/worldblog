@@ -1,4 +1,5 @@
 ---
 author: Katheryn Fox
-title: Blog
+title: 
+url: "projects"
 ---

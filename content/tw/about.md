@@ -1,6 +1,6 @@
 ---
-slug: "over-mij"
-title: "Over mij"
+slug: "about"
+title: "關於"
 description: "Een blog thema voor Hugo gebaseerd op Bootstrap 5."
 date: "2022-04-11"
 showComments: false

@@ -1,0 +1,108 @@
+# Content
+- id: postedOnDate
+  translation: "發佈於 {{ . }}"
+- id: lastModified
+  translation: "(最後更新 {{ . }})"
+- id: translationsLabel
+  translation: "其他語言: "
+- id: translationsSeparator
+  translation: "、 "
+- id: readMore
+  translation: "繼續閱讀"
+- id: morePosts
+  translation: "更多文章"
+- id: olderPosts
+  translation: "較舊文章"
+- id: recentPosts
+  translation: "最新文章"
+- id: newerPosts
+  translation: "較新文章"
+- id: previousPost
+  translation: "上一篇"
+- id: nextPost
+  translation: "下一篇"
+- id: read
+  translation: "閱讀"
+- id: minutesShort
+  translation: "時間"
+- id: words
+  translation: "字數"
+- id: copyright
+  translation: "版權所有"
+- id: photoBy
+  translation: "拍攝"
+- id: photoOn
+  translation: "於"
+- id: article
+  translation: "篇文章"
+- id: articles
+  translation: "篇文章"
+- id: paginationPrevious
+  translation: "上一頁"
+- id: paginationNext
+  translation: "下一頁"
+- id: paginationFirst
+  translation: "第一"
+- id: paginationLast
+  translation: "最後"
+
+# 404 page
+- id: pageNotFound
+  translation: "迷路了！這個頁面不存在。"
+- id: pageNotFoundTitle
+  translation: "頁面不存在"
+- id: pageNotFoundHome
+  translation: "首頁"
+
+
+# Navigation
+- id: toggleNavigation
+  translation: "Toggle navigation"
+- id: languageSwitcherLabel
+  translation: "語言"
+- id: gcseLabelShort
+  translation: "搜尋"
+- id: gcseLabelLong
+  translation: "搜尋 {{ .Site.Title }}"
+- id: gcseClose
+  translation: "關閉"
+
+# Staticman
+- id: noComment
+  translation: "尚無留言"
+- id: oneComment
+  translation: "留言"
+- id: moreComment
+  translation: "留言"
+- id: useMarkdown
+  translation: "You can use Markdown syntax"
+- id: yourName
+  translation: "Your name"
+- id: yourEmail
+  translation: "Your email address"
+- id: yourWebsite
+  translation: "You website"
+
+# Delayed Disqus
+- id: show
+  translation: "Show"
+- id: comments
+  translation: "comments" 
+
+# Related posts
+- id: seeAlso
+  translation: "相關文章"
+
+# Table of contents
+- id: toc
+  translation: "文章內容"
+
+# Search
+- id: ui_search
+  translation: "輸入關鍵字..."
+- id: ui_no_results
+  translation: "沒有結果"
+
+# Draft
+- id: draft
+  translation: "草稿"

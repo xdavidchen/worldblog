@@ -40,11 +40,11 @@
                         {{ end -}}
                     </div>
                 </div>
-            -->
                 {{ if gt (len $taxonomy.Pages) 3 -}}
                     <a class="btn btn-outline-primary" href="{{ $taxonomy.Permalink | safeURL }}" role="button">More {{ $taxonomy.Title }}</a>
                 {{ end -}} 
             </div>
+        -->
         {{ end -}}
     {{ end -}}
 {{ end -}}

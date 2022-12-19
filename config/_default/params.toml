@@ -1,12 +1,12 @@
 ## Homepage
-title = "Hinode hi"
+title = "茶米遊研"
 titleSeparator = "-"
 titleAddition = "Clean Blog Theme"
 description = "Hinode is a clean blog theme for your Hugo site based on Bootstrap 5."
 
 ## Open Graph
 images = ["logo.png"]
-ogLocale = "nl"
+ogLocale = "zh-TW"
 domainTLD = "hinode-demo.markdumay.org"
 
 ## Twitter Cards
@@ -16,11 +16,11 @@ domainTLD = "hinode-demo.markdumay.org"
 ## JSON-LD
 schemaType = "Organization"
 schemaName = "Hinode"
-schemaAuthor = "Mark Dumay"
+schemaAuthor = "David Chen"
 schemaAuthorTwitter = "https://twitter.com/markdumay"
 schemaAuthorLinkedIn = "https://www.linkedin.com/in/markdumay/"
 schemaAuthorGitHub = "https://github.com/markdumay"
-schemaLocale = "nl"
+schemaLocale = "zh-TW"
 schemaLogo = "img/logo512x512.png"
 schemaLogoWidth = 512
 schemaLogoHeight = 512
@@ -44,7 +44,7 @@ schemaSection = "blog"
     enabled = true
 
 [style]
-    themeColor = "#D43900" #00b0f0
+    themeColor = "#b69667" #00b0f0
     themeOpacity = "10"
     themeFont = "Inter"
     themeFontPath = "https://fonts.googleapis.com/css2?family=Inter:wght@200;300;600&display=swap"
