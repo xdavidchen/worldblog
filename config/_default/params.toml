@@ -1,12 +1,12 @@
 ## Homepage
-title = "Hinode"
+title = "Hinode hi"
 titleSeparator = "-"
 titleAddition = "Clean Blog Theme"
 description = "Hinode is a clean blog theme for your Hugo site based on Bootstrap 5."
 
 ## Open Graph
 images = ["logo.png"]
-ogLocale = "en_US"
+ogLocale = "nl"
 domainTLD = "hinode-demo.markdumay.org"
 
 ## Twitter Cards
@@ -20,7 +20,7 @@ schemaAuthor = "Mark Dumay"
 schemaAuthorTwitter = "https://twitter.com/markdumay"
 schemaAuthorLinkedIn = "https://www.linkedin.com/in/markdumay/"
 schemaAuthorGitHub = "https://github.com/markdumay"
-schemaLocale = "en-US"
+schemaLocale = "nl"
 schemaLogo = "img/logo512x512.png"
 schemaLogoWidth = 512
 schemaLogoHeight = 512

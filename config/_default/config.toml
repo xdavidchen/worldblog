@@ -6,7 +6,7 @@ author = "Mark Dumay"
 copyright = "Copyright © 2022 Mark Dumay."
 paginate = 9
 enableRobotsTXT = true
-languageCode = "en-us"
+languageCode = "nl"
 enableInlineShortcodes = true
 # prevent build failures when using Hugo's Instagram shortcode due to deprecated Instagram API.
 # See https://github.com/gohugoio/hugo/issues/7228#issuecomment-714490456
@@ -15,8 +15,8 @@ enableEmoji = true
 timeout = "60s"
 
 # Multilingual
-defaultContentLanguage = "en"
-# disableLanguages = ["nl"]
+defaultContentLanguage = "nl"
+#disableLanguages = ["en"]
 DefaultContentLanguageInSubdir = true
 
 [taxonomies]
