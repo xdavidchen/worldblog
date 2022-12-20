@@ -7,13 +7,13 @@ tags: ["美國", "紐約", "曼哈頓", "時代廣場", "熱狗"]
 date: 2022-10-03
 thumbnail: img/hot-dog-stand.jpg
 ---
-⌗
+＊
 
 說到紐約，路過時代廣場好幾個街區都能看到的熱狗攤是最能代表這座城市的特色之一。
 
 二月的紐約，白天溫度在攝氏十度左右，日落後的溫度驟降到零下是常態，偶爾突然來場暴風雪也沒在客氣，再加上這座城市靠海的關係，冷風總是吹得我頭痛。
 
-⌗
+＊
 
 {{< carousel ratio="4x3" class="col-sm-12 col-lg-8 mx-auto" >}}
     {{< img src="img/nyc-winter-1.jpg" caption="冬天的紐約" >}}
@@ -26,7 +26,7 @@ thumbnail: img/hot-dog-stand.jpg
 {{< image src="img/nyc-winter-2.jpg" caption="布魯克林橋下 | photo by Kevin" >}}
 </div>
 
-⌗
+＊
 
 不過，這樣寒冷刺骨的天氣並不會澆熄旅客們的熱情。
 
@@ -34,14 +34,14 @@ thumbnail: img/hot-dog-stand.jpg
 
 而我，掐指一算的我，發現邊旅遊邊賺錢根本存不了錢的我，當然是要把握機會，從白天逛到晚上，不浪費在紐約旅遊的時光。
 
-⌗
+＊
 
 {{< carousel ratio="4x3" class="col-sm-12 col-lg-8 mx-auto" >}}
     {{< img src="img/timesquare-1.jpg" caption="白天的時代廣場 | photo by Kevin" >}}
     {{< img src="img/timesquare-2.jpg" caption="夜晚的時代廣場 | photo by Kevin" >}}
 {{< /carousel >}}
 <!-- ![夜晚的時代廣場2 photo by kevin](timesquare-3.jpg) -->
-⌗
+＊
 
 話雖如此，走著走著，腳酸了，還是會想找點東西填飽肚子，再繼續逛下去，尤其在夜晚最寒冷的時候，不補充一點熱量是很難在戶外待超過半小時的。
 
@@ -59,14 +59,14 @@ thumbnail: img/hot-dog-stand.jpg
 
 「一個麵包加一根熱狗要台幣 200 元？我是瘋了我才會買。」心中忿恨不平的我挨著肚子的餓決定踏上熱狗比價之路。
 
-⌗
+＊
 
 <div class="col-sm-12 col-md-8 mx-auto">
 {{< image src="img/hot-dog-stand-ny.jpg" caption="紐約街上隨處可見的熱狗攤" >}}
 </div>
 
 <!-- ![夜晚依舊熱鬧的時代廣場 photo by me](timesquare-4.jpg) -->
-⌗
+＊
 
 「**太誇張好吃了！**」
 
@@ -78,4 +78,4 @@ thumbnail: img/hot-dog-stand.jpg
 
 難怪紐約的熱狗堡肯定好吃。
 
-⌗
+＊
