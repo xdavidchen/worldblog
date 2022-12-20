@@ -7,6 +7,7 @@ tags: ["bootstrap", "shortcode"]
 thumbnail: img/boots.jpg
 photoCredits: <a href="https://unsplash.com/@nate_dumlao">Nathan Dumlao</a>
 photoSource: <a href="https://unsplash.com/photos/QLPWQvHvmII">Unsplash</a>
+draft: true
 ---
 
 

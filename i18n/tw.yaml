@@ -30,9 +30,9 @@
 - id: copyright
   translation: "版權所有"
 - id: photoBy
-  translation: "拍攝"
+  translation: "Photo by"
 - id: photoOn
-  translation: "於"
+  translation: "on"
 - id: article
   translation: "篇文章"
 - id: articles

@@ -9,6 +9,7 @@ thumbnail: img/notepad.jpg
 photoCredits: <a href="https://unsplash.com/@frederickjmedina">Frederick Medina</a>
 # credits: Photo by <a href="https://unsplash.com/@frederickjmedina">Frederick Medina</a> on <a href="https://unsplash.com/photos/PdfRE-xB--s">Unsplash</a>
 photoSource: <a href="https://unsplash.com/photos/PdfRE-xB--s">Unsplash</a>
+draft: true
 ---
 
 ## Code Fencing

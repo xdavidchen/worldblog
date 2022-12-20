@@ -8,6 +8,7 @@ tags: ["shortcode", "privacy"]
 thumbnail: img/flowers.jpg # https://picsum.photos/id/106/2592/1728
 photoCredits: <a href="https://unsplash.com/@flutterhappy">Arvee Marie</a>
 photoSource: <a href="https://unsplash.com/photos/YnfGtpt2gf4">Unsplash</a>
+draft: true
 ---
 
 Hugo biedt diverse [shortcodes](https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes) voor het toevoegen van multimedia, inclusief een [privacy configuratie](https://gohugo.io/about/hugo-and-gdpr/) en een verzameling van eenvoudige shortcodes voor het toevoegen van statische en no-JS versies van diverse sociale media.

@@ -9,6 +9,7 @@ tags: ["emoji"]
 thumbnail: https://picsum.photos/id/184/4288/2848.jpg
 photoCredits: <a href="https://unsplash.com/@timdegroot">Tim de Groot</a>
 photoSource: <a href="https://unsplash.com/photos/yNGQ830uFB4">Unsplash</a>
+draft: true
 ---
 
 Je kunt op meerdere manieren emoji gebruiken binnen Hugo.
