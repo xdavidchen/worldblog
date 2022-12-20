@@ -16659,7 +16659,7 @@ readers do not read off random characters that represent icons */
   left: 0;
   right: 0;
   bottom: 0;
-  background-color: rgba(0, 0, 0, 0.3); }
+  background-color: rgba(0, 0, 0, 0.1); }
 
 .clipboard-button {
   position: absolute;
@@ -16811,6 +16811,9 @@ https://prismjs.com/download.html#themes=prism&plugins=command-line */
   height: 100%;
   width: 100%;
   object-fit: cover; }
+
+.figure-caption {
+  text-align: center; }
 
 @media (min-width: 768px) {
   .search {

@@ -16,8 +16,8 @@
     contentDir = "content/tw"
     weight = 1
     [tw.params]
-        introTitle = "茶米遊研"
-        introCaption = "哈囉你好哈囉你好"
+        introTitle = "茶米遊研部落格"
+        introCaption = "國外旅遊｜留學｜工作"
         introLink = "about"
         introLinkTitle = "關於"
         license = "Creative Commons (<a href='https://creativecommons.org/licenses/by-nc-sa/4.0/' class='link-secondary' target='_blank'>CC BY-NC-SA 4.0</a>) 授權條款"

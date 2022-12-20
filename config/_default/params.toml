@@ -1,8 +1,8 @@
 ## Homepage
 title = "茶米遊研"
 titleSeparator = "-"
-titleAddition = "Clean Blog Theme"
-description = "Hinode is a clean blog theme for your Hugo site based on Bootstrap 5."
+titleAddition = "國外旅遊｜留學｜工作"
+description = "茶米遊研是一個關於國外旅遊、留學和工作的部落格"
 
 ## Open Graph
 images = ["logo.png"]
@@ -50,8 +50,8 @@ schemaSection = "blog"
     themeFontPath = "https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@100;300;400;500;700;900&display=swap"
 
 [main]
-    featurePhoto = "/img/manhattan.png" # source: https://unsplash.com/photos/ZX6BPboJrYk
-    logo = "/img/logo_embedded.svg"
+    featurePhoto = "/img/main.png"
+    logo = "/img/logo512x512.png"
 
 
 [comments]

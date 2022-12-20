@@ -4,7 +4,7 @@
     {{ range $section, $taxonomy := .Site.Sections -}}
         {{ if eq $section 0 -}}
             <div class="p-4">
-                <h1>{{ T "recentPosts" }}</h1>
+                <h3>{{ T "recentPosts" }}</h3>
                 <div class="container-fluid p-0">
                     <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3">
                         {{ $items := first 6 ($taxonomy.Pages.ByDate.Reverse) -}}
