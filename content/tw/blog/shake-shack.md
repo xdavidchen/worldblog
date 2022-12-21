@@ -57,20 +57,54 @@ photoSource: <a href="https://unsplash.com/photos/iypd1qKelRY">Unsplash</a>
 
 以下整理推薦我個人在東岸短短兩個月內，親自嚐鮮過的品項！
 
-<!-- ### Shake Shack NYC 菜單[^1]
+### Shake Shack NYC 菜單[^1]
 
-| 品項                   | 大小         | 價格（美元） |
-| ---------------------- | ------------ | ------------ |
-| ShackBurger 牛肉吉事堡 | Single 單層  | $5.18        |
-|                        | Double 雙層  | $7.93        |
-| Fries 薯條             | Regular 一般             | $2.93        |
-|                        | Cheese 加起司             | $3.91        |
-| Fifty-fifty 檸檬汁＋冰茶           | Regular 一般 | $2.50        |
-|                        | Large 大杯   | $3.23        |
-| Shakes 奶昔            |  One-size 單一大小            | $5.18        |
-*註： 實際價格以各地區店家標示為主* -->
+<table class="table">
+    <tr>
+        <td>品項</td>
+        <td>大小</td>
+        <td>價格（美元）</td>
+    </tr>
+    <tr>
+        <td>ShackBurger 牛肉吉事堡</td>
+        <td>Single 單層</td>
+        <td>$5.18</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Double 雙層</td>
+        <td>$7.93</td>
+    </tr>
+    <tr>
+        <td>Fries 薯條</td>
+        <td>Regular 一般</td>
+        <td>$2.93</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Cheese 加起司</td>
+        <td>$3.91</td>
+    </tr>
+    <tr>
+        <td>Fifty-fifty 檸檬汁＋冰茶</td>
+        <td>Regular 一般</td>
+        <td>$2.50</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Large 大杯</td>
+        <td>$3.23</td>
+    </tr>
+    <tr>
+        <td>Shakes 奶昔</td>
+        <td>One-size 單一大小</td>
+        <td>$5.18</td>
+    </tr>
+</table>
 
-**ShackBurger 牛肉吉事堡**
+*註： 實際價格以各地區店家標示為主*
+
+### ShackBurger 牛肉吉事堡
 
 聽起來跟麥當勞賣的牛肉吉事堡沒什麼兩樣？大錯特錯！單點漢堡就要價一百多（雙層堡兩百多）台幣，區區一個漢堡卻能享譽世界，Shake Shack 的招牌特色 ShackBurger 是個狠角色。
 
@@ -88,7 +122,7 @@ photoSource: <a href="https://unsplash.com/photos/iypd1qKelRY">Unsplash</a>
 
 一口咬下去 — 是派對，食材在嘴巴裡開派對。
 
-**Fries 薯條**
+### Fries 薯條
 
 如果只是當點心吃，一個單層的 ShackBurger 應該是足夠解解嘴饞的。但是如果是要當正餐吃，還是會需要點份薯條才會吃飽，兩個人吃一份薯條也是不錯的點餐策略。
 
@@ -104,7 +138,7 @@ photoSource: <a href="https://unsplash.com/photos/iypd1qKelRY">Unsplash</a>
 
 哪天你真的想吃重口味、罪惡感爆表的食物，Go For It！起司薯點下去！
 
-**Fifty-fifty 半半（檸檬汁＋冰茶**
+### Fifty-fifty 半半（檸檬汁＋冰茶
 
 Fifty-fifty 照字面上的意思就是 50 / 50，如果你喝膩了每間美國速食店都有的汽水和冰茶，我非常推薦你試試看點一杯 Fifty-fifty 來湊一個套餐。
 
@@ -112,7 +146,7 @@ Fifty-fifty 照字面上的意思就是 50 / 50，如果你喝膩了每間美國
 
 <!-- ![Drink] -->
 
-**Shakes 奶昔**
+### Shakes 奶昔
 
 Shake Shack 的奶昔有很多種口味，我試過的有：
 
