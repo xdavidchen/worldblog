@@ -452,14 +452,12 @@ NYPD 已經彷彿是一間大企業了。他們擁有自己的特色和態度，
 
 <br>
 
-<blockquote class="blockquote">
-    <div class="highlight">
-          Winter 2021, David Chen 📍New York City, U.S.A
-    </div>
-</blockquote>
+🗽 **即將啟程前往紐約？[購買紐約通行證](https://affiliate.klook.com/redirect?aid=30002&aff_adid=636616&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F11167-new-york-city-pass-attractions-new-york%2F)用六折的價格取得五大景點門票。**
+
+💡 *此票卷連結為合作行銷連結，透過此連結購買就像不花一毛錢請我喝珍奶！*
 
 <br>
 
-> 即將啟程前往紐約？[購買紐約通行證](https://affiliate.klook.com/redirect?aid=30002&aff_adid=636616&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F11167-new-york-city-pass-attractions-new-york%2F)用六折的價格取得五大景點門票。
-
-**此票卷連結為合作行銷連結，點擊它購買就等於不花一毛錢請我喝一杯珍奶！*
+<code class="chroma">
+    Winter 2021, David Chen 📍New York City, U.S.A
+</code>
