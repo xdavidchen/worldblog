@@ -8,10 +8,10 @@
   url = "/blog/"
   weight = 20
 
-[[main]]
-  name = "作品"
-  url = "/projects/"
-  weight = 30
+#[[main]]
+  #name = "作品"
+  #url = "/projects/"
+  #weight = 30
 
 [[main]]
   name = "標籤"
@@ -21,7 +21,7 @@
 [[main]]
   name = "追蹤茶米"
   url = "https://xdavidchen.com/zh-tw/%E8%A8%82%E9%96%B1/"
-  weight = 45
+  weight = 50
 
 [[social]]
   name = "LinkedIn"
