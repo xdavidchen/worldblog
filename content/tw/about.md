@@ -1,15 +1,16 @@
 ---
 slug: "about"
 title: "關於"
-description: "Een blog thema voor Hugo gebaseerd op Bootstrap 5."
-date: "2022-04-11"
+description: "關於茶米遊研部落格"
+date: "2022-12-21"
 showComments: false
 ---
 
-<p class="text-center"><img src="/img/logo_embedded.svg" class="img-fluid w-50" alt="Logo"></p>
+<p class="text-center"><img src="https://davidchen.world/img/main_hue71b649018e46ccd550224f6b3e95c81_214225_1400x1050_fill_q75_h2_box_smart1_3.webp" class="img-fluid w-50" alt="Logo"></p>
 
 <center>Hinode is een blog thema voor Hugo, een open-source statische website generator.</center>
 
+<!--
 <section class="section section-sm mt-5">
   <div class="container-fluid">
     <div class="row justify-content-center text-center">
@@ -32,6 +33,8 @@ showComments: false
     </div>
   </div>
 </section>
+-->
+
 
 Overige functies:
 
