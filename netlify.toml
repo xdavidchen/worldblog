@@ -1,6 +1,8 @@
 [build]
     publish = "public"
     functions = "functions"
+    command = "hugo --gc --minify"
+
 
 [build.environment]
     NODE_VERSION = "16.13.1"
@@ -10,7 +12,7 @@
     command = "npm run build"
 
 [context.production.environment]
-    HUGO_VERSION = "0.83.1"
+    HUGO_VERSION = "0.106.0"
     HUGO_ENV = "production"
     HUGO_ENABLEGITINFO = "true"
 [[headers]]
