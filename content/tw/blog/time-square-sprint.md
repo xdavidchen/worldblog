@@ -66,7 +66,13 @@ thumbnail: img/time-square.jpg
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/time-square.jpg" caption="時代廣場" >}}
+{{< image src="img/time-square.jpg" >}}
+</div>
+
+<br>
+
+<div class="col-sm-12 col-md-8 mx-auto">
+{{< image src="img/time-square-5.jpg" >}}
 </div>
 
 <br>
