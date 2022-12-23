@@ -70,3 +70,9 @@ DefaultContentLanguageInSubdir = true
   [[module.mounts]]
     source = "node_modules/flexsearch"
     target = "assets/js/vendor/flexsearch"
+
+  [params.shareButtons]
+    networks = ["facebook", "twitter", "email", "linkedin"]
+    size = "small"
+    buttonMargin = "0.2em"
+    icon = "solid"

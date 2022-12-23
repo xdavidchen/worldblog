@@ -138,7 +138,7 @@ photoSource: <a href="https://unsplash.com/photos/iypd1qKelRY">Unsplash</a>
 
 哪天你真的想吃重口味、罪惡感爆表的食物，Go For It！起司薯點下去！
 
-### Fifty-fifty 半半（檸檬汁＋冰茶
+### Fifty-fifty 半半（檸檬汁＋冰茶）
 
 Fifty-fifty 照字面上的意思就是 50 / 50，如果你喝膩了每間美國速食店都有的汽水和冰茶，我非常推薦你試試看點一杯 Fifty-fifty 來湊一個套餐。
 
