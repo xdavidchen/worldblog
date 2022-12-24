@@ -13,6 +13,7 @@ enableInlineShortcodes = true
 ignoreErrors = ["error-remote-getjson"]
 enableEmoji = true
 timeout = "60s"
+googleAnalytics = "G-54PT6G0MZ4"
 
 # Multilingual
 defaultContentLanguage = "tw"

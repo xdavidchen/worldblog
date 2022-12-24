@@ -5,6 +5,7 @@
     {{ hugo.Generator}}
     {{ partial "head/stylesheet.html" -}}
     {{ partial "head/seo.html" . }}
+    {{- template "_internal/google_analytics.html" . -}}
     {{ partialCached "head/favicon.html" . -}}
     {{ if gt (len .Site.Languages) 1}}
     <meta name="lang" content="{{ .Site.Language }}" />
