@@ -5,7 +5,7 @@ title: "在時代廣場百米衝刺"
 description: "冬 ・ 2021 — 初見紐約"
 tags: ["紐約", "美國", "曼哈頓", "時代廣場", "警察"]
 date: 2022-10-31
-thumbnail: img/time-square.jpg
+thumbnail: img/time-square-sprint/time-square.jpg
 ---
 抵達紐約的第一天，我和 Kevin 吃完早午餐後步行前往第一站 — 時代廣場。它的位置就在 Midtown 最中心、交通最繁雜的區域，因此對於來到曼哈頓的遊客來說，時代廣場很高機率是第一個到達的景點。
 
@@ -14,13 +14,13 @@ thumbnail: img/time-square.jpg
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/building.jpg" caption="經典的美式紅磚建築" >}}
+{{< image src="img/time-square-sprint/building.jpg" caption="經典的美式紅磚建築" >}}
 </div>
 
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/picture-kevin.jpg" caption="專業攝影師 | photo by Kevin" >}}
+{{< image src="img/time-square-sprint/picture-kevin.jpg" caption="專業攝影師 | photo by Kevin" >}}
 </div>
 
 <br>
@@ -34,13 +34,13 @@ thumbnail: img/time-square.jpg
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/nyc-street-kevin.jpg" caption="曼哈頓街景 | photo by Kevin" >}}
+{{< image src="img/time-square-sprint/nyc-street-kevin.jpg" caption="曼哈頓街景 | photo by Kevin" >}}
 </div>
 
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/first-time-in-nyc.jpg" caption="曼哈頓街景" >}}
+{{< image src="img/time-square-sprint/first-time-in-nyc.jpg" caption="曼哈頓街景" >}}
 </div>
 
 <br>
@@ -66,7 +66,7 @@ thumbnail: img/time-square.jpg
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/time-square.jpg" >}}
+{{< image src="img/time-square-sprint/time-square.jpg" >}}
 </div>
 
 <br>
