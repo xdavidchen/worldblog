@@ -5,7 +5,7 @@ title: "你好，惡名昭彰的紐約"
 description: "冬 ・ 2021 — 初見紐約"
 tags: ["紐約", "美國", "伊斯頓", "曼哈頓"]
 date: 2022-10-07
-thumbnail: img/skyline.jpg
+thumbnail: img/first-time-in-nyc/skyline.jpg
 ---
 伊斯頓[^1]是個可愛溫馨的小城市。
 
@@ -18,8 +18,8 @@ thumbnail: img/skyline.jpg
 對我來說，同樣規律的生活過了一陣子，多少感到生活少了些什麼樂趣。
 
 {{< carousel ratio="4x3" class="col-sm-12 col-lg-8 mx-auto" >}}
-    {{< img src="img/library.jpg" caption="Lafayette College 的圖書館" >}}
-    {{< img src="img/coffee.jpg" caption="山坡下的咖啡廳" >}}
+    {{< img src="img/first-time-in-nyc/library.jpg" caption="Lafayette College 的圖書館" >}}
+    {{< img src="img/first-time-in-nyc/coffee.jpg" caption="山坡下的咖啡廳" >}}
 {{< /carousel >}}
 
 <br>
@@ -47,7 +47,7 @@ thumbnail: img/skyline.jpg
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/lyft.jpg" caption="在車上的時間過得特別慢⋯" >}}
+{{< image src="img/first-time-in-nyc/lyft.jpg" caption="在車上的時間過得特別慢⋯" >}}
 </div>
 
 <br>
@@ -79,7 +79,7 @@ thumbnail: img/skyline.jpg
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/skyline.jpg" caption="公路上能看到的曼哈頓天際線" >}}
+{{< image src="img/first-time-in-nyc/skyline.jpg" caption="公路上能看到的曼哈頓天際線" >}}
 </div>
 
 <br>

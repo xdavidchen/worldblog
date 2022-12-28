@@ -5,7 +5,7 @@ title: "不想付小費？快跑！"
 description: "冬 ・ 2021 — 初見紐約"
 tags: ["紐約", "美國", "曼哈頓", "小費"]
 date: 2022-10-23
-thumbnail: img/comics.jpg
+thumbnail: img/tip-run/comics.jpg
 ---
 在美國，支付小費是根深蒂固的文化，長期生活在台灣的我和 Kevin 在這點感受到有些不習慣，不過為了禮貌，我們還是會意思意思支付一下。
 
@@ -16,7 +16,7 @@ thumbnail: img/comics.jpg
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/receipt.jpg" caption="18%、20%、22%，全部都幫你算好囉！" >}}
+{{< image src="img/tip-run/receipt.jpg" caption="18%、20%、22%，全部都幫你算好囉！" >}}
 </div>
 
 <br>
@@ -28,7 +28,7 @@ thumbnail: img/comics.jpg
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/tip-screen.png" caption="在櫃台結帳時會出現的令人不安的畫面" >}}
+{{< image src="img/tip-run/tip-screen.png" caption="在櫃台結帳時會出現的令人不安的畫面" >}}
 </div>
 
 <br>
@@ -50,13 +50,13 @@ thumbnail: img/comics.jpg
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/wall-street.jpg" caption="華爾街 | photo by Kevin" >}}
+{{< image src="img/tip-run/wall-street.jpg" caption="華爾街 | photo by Kevin" >}}
 </div>
 
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/china-town.jpg" caption="唐人街慶祝農曆新年遊行 | photo by Kevin" >}}
+{{< image src="img/tip-run/china-town.jpg" caption="唐人街慶祝農曆新年遊行 | photo by Kevin" >}}
 </div>
 
 <br>
@@ -84,7 +84,7 @@ Kevin 慌張的看了手機，驚恐的說：「這個人傳錯照片了！那�
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/bbq.jpg" caption="花了我們一百美元的雙人套餐" >}}
+{{< image src="img/tip-run/bbq.jpg" caption="花了我們一百美元的雙人套餐" >}}
 </div>
 
 <br>
@@ -106,7 +106,7 @@ Kevin 慌張的看了手機，驚恐的說：「這個人傳錯照片了！那�
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/comics.jpg" caption="拜託放過我們（Soho 路上的塗鴉）" >}}
+{{< image src="img/tip-run/comics.jpg" caption="拜託放過我們（Soho 路上的塗鴉）" >}}
 </div>
 
 <br>

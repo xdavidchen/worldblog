@@ -5,7 +5,7 @@ title: "紐約，紐約"
 description: "紐約怪奇｜奇形怪狀的紐約"
 tags: ["紐約", "美國", "曼哈頓"]
 date: 2022-12-05
-thumbnail: img/manhattan-cover.png
+thumbnail: img/new-york-new-york/manhattan-cover.png
 ---
 來到曼哈頓，城市的喧囂讓你眼花撩亂，吵雜的聲音在紐約不曾停止過，那是憤怒汽車駕駛的喇叭、無頭蒼蠅旅客的喧嘩、警車消防車響徹雲霄的鳴笛⋯⋯
 
@@ -26,7 +26,7 @@ thumbnail: img/manhattan-cover.png
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/city-view.jpg" >}}
+{{< image src="img/new-york-new-york/city-view.jpg" >}}
 </div>
 
 <br>
@@ -42,7 +42,7 @@ thumbnail: img/manhattan-cover.png
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/street-view.jpg" >}}
+{{< image src="img/new-york-new-york/street-view.jpg" >}}
 </div>
 
 <br>
@@ -54,7 +54,7 @@ thumbnail: img/manhattan-cover.png
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/no-speaker.jpg" caption="禁止攜帶手提音響搭乘紐約地鐵喔！" >}}
+{{< image src="img/new-york-new-york/no-speaker.jpg" caption="禁止攜帶手提音響搭乘紐約地鐵喔！" >}}
 </div>
 
 <br>
@@ -66,9 +66,9 @@ NYPD 的存在絕對是必要的，否則大部分在紐約的紀念品店早就
 <br>
 
 {{< carousel ratio="4x3" class="col-sm-12 col-lg-8 mx-auto" >}}
-    {{< img src="img/nypd-1.jpg" >}}
-    {{< img src="img/nypd-2.jpg" >}}
-    {{< img src="img/souvenir.jpg" caption="像這樣的紀念品店裡面，保證你可以買到 NYPD 的紀念品" >}}
+    {{< img src="img/new-york-new-york/nypd-1.jpg" >}}
+    {{< img src="img/new-york-new-york/nypd-2.jpg" >}}
+    {{< img src="img/new-york-new-york/souvenir.jpg" caption="像這樣的紀念品店裡面，保證你可以買到 NYPD 的紀念品" >}}
 {{< /carousel >}}
 
 <br>
@@ -78,7 +78,7 @@ NYPD 的存在絕對是必要的，否則大部分在紐約的紀念品店早就
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/nypd-chat.jpg" >}}
+{{< image src="img/new-york-new-york/nypd-chat.jpg" >}}
 </div>
 
 <br>
@@ -88,13 +88,13 @@ NYPD 已經彷彿是一間大企業了。他們擁有自己的特色和態度，
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/nypd-3.jpg" caption="時代廣場前的警車" >}}
+{{< image src="img/new-york-new-york/nypd-3.jpg" caption="時代廣場前的警車" >}}
 </div>
 
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/nypd-4.jpg" caption="百老匯大道上的警車" >}}
+{{< image src="img/new-york-new-york/nypd-4.jpg" caption="百老匯大道上的警車" >}}
 </div>
 
 <br>
@@ -104,7 +104,7 @@ NYPD 已經彷彿是一間大企業了。他們擁有自己的特色和態度，
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/doggy.jpg" caption="狗狗富翁們" >}}
+{{< image src="img/new-york-new-york/doggy.jpg" caption="狗狗富翁們" >}}
 </div>
 
 <br>
@@ -116,7 +116,7 @@ NYPD 已經彷彿是一間大企業了。他們擁有自己的特色和態度，
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/368.jpg" caption="Casey Neistat 的 368 工作室" >}}
+{{< image src="img/new-york-new-york/368.jpg" caption="Casey Neistat 的 368 工作室" >}}
 </div>
 
 <br>
@@ -128,13 +128,13 @@ NYPD 已經彷彿是一間大企業了。他們擁有自己的特色和態度，
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/metro-entrance.jpg" caption="街友和他的家當（？）" >}}
+{{< image src="img/new-york-new-york/metro-entrance.jpg" caption="街友和他的家當（？）" >}}
 </div>
 
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/homeless-in-metro.jpg" caption="街友在地鐵車廂內睡得香甜" >}}
+{{< image src="img/new-york-new-york/homeless-in-metro.jpg" caption="街友在地鐵車廂內睡得香甜" >}}
 </div>
 
 <br>
@@ -146,7 +146,7 @@ NYPD 已經彷彿是一間大企業了。他們擁有自己的特色和態度，
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/metro-station.jpg" >}}
+{{< image src="img/new-york-new-york/metro-station.jpg" >}}
 </div>
 
 <br>
@@ -158,13 +158,13 @@ NYPD 已經彷彿是一間大企業了。他們擁有自己的特色和態度，
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/metro-gate.jpg" caption="地鐵跳跳人出沒地帶：地鐵閘門" >}}
+{{< image src="img/new-york-new-york/metro-gate.jpg" caption="地鐵跳跳人出沒地帶：地鐵閘門" >}}
 </div>
 
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/metro-station-2.jpg" caption="地鐵站內" >}}
+{{< image src="img/new-york-new-york/metro-station-2.jpg" caption="地鐵站內" >}}
 </div>
 
 <br>
@@ -174,19 +174,19 @@ NYPD 已經彷彿是一間大企業了。他們擁有自己的特色和態度，
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/soho.jpg" caption="很熱鬧的 Soho 區" >}}
+{{< image src="img/new-york-new-york/soho.jpg" caption="很熱鬧的 Soho 區" >}}
 </div>
 
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/k-town.jpg" caption="韓國城 K-town" >}}
+{{< image src="img/new-york-new-york/k-town.jpg" caption="韓國城 K-town" >}}
 </div>
 
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/china-town-2.jpg" caption="在唐人街剛好遇到農曆新年遊行" >}}
+{{< image src="img/new-york-new-york/china-town-2.jpg" caption="在唐人街剛好遇到農曆新年遊行" >}}
 </div>
 
 <br>
@@ -200,13 +200,13 @@ NYPD 已經彷彿是一間大企業了。他們擁有自己的特色和態度，
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/sunny.jpg" caption="晴朗日落時的紐約" >}}
+{{< image src="img/new-york-new-york/sunny.jpg" caption="晴朗日落時的紐約" >}}
 </div>
 
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/rainy.jpg" caption="剛下完雨的紐約" >}}
+{{< image src="img/new-york-new-york/rainy.jpg" caption="剛下完雨的紐約" >}}
 </div>
 
 <br>
@@ -216,13 +216,13 @@ NYPD 已經彷彿是一間大企業了。他們擁有自己的特色和態度，
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/snow.jpg" caption="下大雪的紐約" >}}
+{{< image src="img/new-york-new-york/snow.jpg" caption="下大雪的紐約" >}}
 </div>
 
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/snow-brooklyn-bridge.jpg" caption="下大雪的紐約，布魯克林橋下 | photo by Kevin" >}}
+{{< image src="img/new-york-new-york/snow-brooklyn-bridge.jpg" caption="下大雪的紐約，布魯克林橋下 | photo by Kevin" >}}
 </div>
 
 <br>
@@ -234,19 +234,19 @@ NYPD 已經彷彿是一間大企業了。他們擁有自己的特色和態度，
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/taxi.jpg" >}}
+{{< image src="img/new-york-new-york/taxi.jpg" >}}
 </div>
 
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/taxi-chimney.jpg" >}}
+{{< image src="img/new-york-new-york/taxi-chimney.jpg" >}}
 </div>
 
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/hot-dog-stand.jpg" >}}
+{{< image src="img/new-york-new-york/hot-dog-stand.jpg" >}}
 </div>
 
 <br>
@@ -256,38 +256,35 @@ NYPD 已經彷彿是一間大企業了。他們擁有自己的特色和態度，
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/arcade.jpg" caption="醜陋的綠色騎樓" >}}
+{{< image src="img/new-york-new-york/arcade.jpg" caption="醜陋的綠色騎樓" >}}
 </div>
 
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/starbucks.jpg" caption="Starbucks 快凋零的招牌" >}}
+{{< image src="img/new-york-new-york/starbucks.jpg" caption="Starbucks 快凋零的招牌" >}}
 </div>
 
 <br>
-![醜陋的綠色騎樓](arcade.jpg)
-
-![Starbucks 快凋零的招牌](starbucks.jpg)
 
 在曼哈頓的中心，隔一個路口就是百老匯大道，世界聞名的百老匯秀每天都在各個劇院上演好幾場。
 
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/broadway-1.jpg" caption="歌劇魅影的海報" >}}
+{{< image src="img/new-york-new-york/broadway-1.jpg" caption="歌劇魅影的海報" >}}
 </div>
 
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/broadway-2.jpg" caption="歌劇魅影的劇院外" >}}
+{{< image src="img/new-york-new-york/broadway-2.jpg" caption="歌劇魅影的劇院外" >}}
 </div>
 
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/broadway-3.jpg" caption="漢米爾頓的劇院" >}}
+{{< image src="img/new-york-new-york/broadway-3.jpg" caption="漢米爾頓的劇院" >}}
 </div>
 
 <br>
@@ -297,19 +294,25 @@ NYPD 已經彷彿是一間大企業了。他們擁有自己的特色和態度，
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/skating.jpg" caption="布萊恩特公園裡的溜冰場" >}}
+{{< image src="img/new-york-new-york/skating.jpg" caption="布萊恩特公園裡的溜冰場" >}}
 </div>
 
 <br>
 
 向著北方一直走，不久後中央公園會出現在你的面前。這個季節的中央公園是乾黃的。藍天再怎麼藍，時間沒到春天，鮮豔的綠色就是不會來。這個在高樓大廈中顯得突兀的大公園，是街頭藝人謀生的地方，是當地居民暫時逃脫壓力的地方，是旅客暫緩腳步休息的地方。不只人類，甚至連動物們都在這裡找到一席之地。
 
-![](central-park-city-view.jpg)
+<br>
+
+<div class="col-sm-12 col-md-8 mx-auto">
+{{< image src="img/new-york-new-york/central-park-city-view.jpg" >}}
+</div>
+
+<br>
 
 {{< carousel ratio="4x3" class="col-sm-12 col-lg-8 mx-auto" >}}
-    {{< img src="img/zoo-1.jpg" >}}
-    {{< img src="img/zoo-2.jpg" >}}
-    {{< img src="img/zoo-3.jpg" >}}
+    {{< img src="img/new-york-new-york/zoo-1.jpg" >}}
+    {{< img src="img/new-york-new-york/zoo-2.jpg" >}}
+    {{< img src="img/new-york-new-york/zoo-3.jpg" >}}
 {{< /carousel >}}
 
 <br>
@@ -325,7 +328,7 @@ NYPD 已經彷彿是一間大企業了。他們擁有自己的特色和態度，
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/368-trash.jpg" caption="368 工作室 ... 和對街的垃圾堆" >}}
+{{< image src="img/new-york-new-york/368-trash.jpg" caption="368 工作室 ... 和對街的垃圾堆" >}}
 </div>
 
 <br>
@@ -339,25 +342,25 @@ NYPD 已經彷彿是一間大企業了。他們擁有自己的特色和態度，
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/city-view-from-top.jpg" >}}
+{{< image src="img/new-york-new-york/city-view-from-top.jpg" >}}
 </div>
 
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/city-view-night.jpg" >}}
+{{< image src="img/new-york-new-york/city-view-night.jpg" >}}
 </div>
 
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/wall-street-2.jpg" caption="華爾街" >}}
+{{< image src="img/new-york-new-york/wall-street-2.jpg" caption="華爾街" >}}
 </div>
 
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/stock-trade.jpg" caption="證卷交易所" >}}
+{{< image src="img/new-york-new-york/stock-trade.jpg" caption="證卷交易所" >}}
 </div>
 
 <br>
@@ -367,7 +370,7 @@ NYPD 已經彷彿是一間大企業了。他們擁有自己的特色和態度，
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/time-square-5.jpg" caption="時代廣場的巨型廣告看板" >}}
+{{< image src="img/new-york-new-york/time-square-5.jpg" caption="時代廣場的巨型廣告看板" >}}
 </div>
 
 <br>
@@ -381,13 +384,13 @@ NYPD 已經彷彿是一間大企業了。他們擁有自己的特色和態度，
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/immigration.jpg" caption="上個世紀每個移民來到美國最先抵達的移民管制局" >}}
+{{< image src="img/new-york-new-york/immigration.jpg" caption="上個世紀每個移民來到美國最先抵達的移民管制局" >}}
 </div>
 
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/statue-of-liberty.jpg" caption="自由女神像" >}}
+{{< image src="img/new-york-new-york/statue-of-liberty.jpg" caption="自由女神像" >}}
 </div>
 
 <br>
@@ -401,19 +404,19 @@ NYPD 已經彷彿是一間大企業了。他們擁有自己的特色和態度，
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/brooklyn-bridge.jpg" caption="在布魯克林橋上 | photo by Rachel" >}}
+{{< image src="img/new-york-new-york/brooklyn-bridge.jpg" caption="在布魯克林橋上 | photo by Rachel" >}}
 </div>
 
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/selfie-2.jpg" caption="不知名的二手商店裡" >}}
+{{< image src="img/new-york-new-york/selfie-2.jpg" caption="不知名的二手商店裡" >}}
 </div>
 
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/me.jpg" caption="布萊恩特公園旁 | photo by Rachel" >}}
+{{< image src="img/new-york-new-york/me.jpg" caption="布萊恩特公園旁 | photo by Rachel" >}}
 </div>
 
 <br>
@@ -425,7 +428,7 @@ NYPD 已經彷彿是一間大企業了。他們擁有自己的特色和態度，
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/new-york.jpg" >}}
+{{< image src="img/new-york-new-york/new-york.jpg" >}}
 </div>
 
 <br>
@@ -435,7 +438,7 @@ NYPD 已經彷彿是一間大企業了。他們擁有自己的特色和態度，
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/manhattan.png" >}}
+{{< image src="img/new-york-new-york/manhattan.png" >}}
 </div>
 
 <br>

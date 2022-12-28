@@ -5,7 +5,7 @@ title: "紐約熱狗堡絕對好吃的秘密"
 description: "冬 ・ 2021 — 紐約隨筆"
 tags: ["紐約", "美國", "曼哈頓", "時代廣場", "熱狗"]
 date: 2022-10-03
-thumbnail: img/hot-dog-stand.jpg
+thumbnail: img/hot-dog-stand-nyc/hot-dog-stand-and-taxi.jpg
 ---
 說到紐約，路過時代廣場好幾個街區都能看到的熱狗攤是最能代表這座城市的特色之一。
 
@@ -13,14 +13,14 @@ thumbnail: img/hot-dog-stand.jpg
 
 
 {{< carousel ratio="4x3" class="col-sm-12 col-lg-8 mx-auto" >}}
-    {{< img src="img/nyc-winter-1.jpg" caption="冬天的紐約" >}}
-    {{< img src="img/nyc-winter-3.jpg" caption="公園雪景" >}}
+    {{< img src="img/hot-dog-stand-nyc/nyc-winter-1.jpg" caption="冬天的紐約" >}}
+    {{< img src="img/hot-dog-stand-nyc/nyc-winter-3.jpg" caption="公園雪景" >}}
 {{< /carousel >}}
 
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/nyc-winter-2.jpg" caption="布魯克林橋下 | photo by Kevin" >}}
+{{< image src="img/hot-dog-stand-nyc/nyc-winter-2.jpg" caption="布魯克林橋下 | photo by Kevin" >}}
 </div>
 
 <br>
@@ -34,8 +34,8 @@ thumbnail: img/hot-dog-stand.jpg
 <br>
 
 {{< carousel ratio="4x3" class="col-sm-12 col-lg-8 mx-auto" >}}
-    {{< img src="img/timesquare-1.jpg" caption="白天的時代廣場 | photo by Kevin" >}}
-    {{< img src="img/timesquare-2.jpg" caption="夜晚的時代廣場 | photo by Kevin" >}}
+    {{< img src="img/hot-dog-stand-nyc/timesquare-1.jpg" caption="白天的時代廣場 | photo by Kevin" >}}
+    {{< img src="img/hot-dog-stand-nyc/timesquare-2.jpg" caption="夜晚的時代廣場 | photo by Kevin" >}}
 {{< /carousel >}}
 <!-- ![夜晚的時代廣場2 photo by kevin](timesquare-3.jpg) -->
 <br>
@@ -59,7 +59,7 @@ thumbnail: img/hot-dog-stand.jpg
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/hot-dog-stand-ny.jpg" caption="紐約街上隨處可見的熱狗攤" >}}
+{{< image src="img/hot-dog-stand-nyc/hot-dog-stand-ny.jpg" caption="紐約街上隨處可見的熱狗攤" >}}
 </div>
 
 <!-- ![夜晚依舊熱鬧的時代廣場 photo by me](timesquare-4.jpg) -->

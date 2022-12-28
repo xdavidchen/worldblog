@@ -72,7 +72,7 @@ thumbnail: img/time-square.jpg
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/time-square-5.jpg" >}}
+{{< image src="img/time-square-sprint/time-square-5.jpg" >}}
 </div>
 
 <br>

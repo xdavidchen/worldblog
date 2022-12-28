@@ -5,7 +5,7 @@ title: "紐約大煙囪"
 description: "冬 ・ 2021 — 紐約隨筆"
 tags: ["紐約", "美國", "煙囪", "火車"]
 date: 2022-11-14
-thumbnail: img/chimney-1.jpg
+thumbnail: img/new-york-chimney/chimney-1.jpg
 ---
 
 說到紐約，在你腦中浮現的是哪個畫面？是自由女神像、世貿中心、又或是時代廣場？在到紐約旅行之前，我對於紐約的印象不外乎就是這些知名地標。
@@ -19,7 +19,7 @@ thumbnail: img/chimney-1.jpg
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/chimney-2.jpg" >}}
+{{< image src="img/new-york-chimney/chimney-2.jpg" >}}
 </div>
 
 <br>
@@ -33,8 +33,9 @@ thumbnail: img/chimney-1.jpg
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/chimney-3.jpg" >}}
+{{< image src="img/new-york-chimney/chimney-3.jpg" >}}
 </div>
+
 
 <br>
 

@@ -5,7 +5,7 @@ title: "出發德國圓一個留學夢"
 description: "秋 ・ 2020 — 留學德國"
 tags: ["拜羅伊特", "德國", "留學", "輔仁大學"]
 date: 2022-12-08
-thumbnail: img/in-sky.jpg
+thumbnail: img/realize-dream-germany/in-sky.jpg
 ---
 
 <br>
@@ -17,7 +17,7 @@ thumbnail: img/in-sky.jpg
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/emirates-plane-taoyuan.jpg" >}}
+{{< image src="img/realize-dream-germany/emirates-plane-taoyuan.jpg" >}}
 </div>
 
 <br>
@@ -33,7 +33,7 @@ thumbnail: img/in-sky.jpg
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/college-entrance-exam-text.jpg" >}}
+{{< image src="img/realize-dream-germany/college-entrance-exam-text.jpg" >}}
 </div>
 
 <br>
@@ -55,13 +55,13 @@ thumbnail: img/in-sky.jpg
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/fju-couple-hill.jpg" caption="順便紀念已經不見的輔大情人坡" >}}
+{{< image src="img/realize-dream-germany/fju-couple-hill.jpg" caption="順便紀念已經不見的輔大情人坡" >}}
 </div>
 
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/fju-library.jpg" caption="輔大國璽樓圖書館窗外的風景" >}}
+{{< image src="img/realize-dream-germany/fju-library.jpg" caption="輔大國璽樓圖書館窗外的風景" >}}
 </div>
 
 <br>
@@ -73,7 +73,7 @@ thumbnail: img/in-sky.jpg
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/sharing-office-taipei.jpg" caption="在台北的共享辦公室" >}}
+{{< image src="img/realize-dream-germany/sharing-office-taipei.jpg" caption="在台北的共享辦公室" >}}
 </div>
 
 <br>
@@ -85,7 +85,7 @@ thumbnail: img/in-sky.jpg
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/empty-airport-taoyuan-me.jpg" caption="疫情間空無一人的機場" >}}
+{{< image src="img/realize-dream-germany/empty-airport-taoyuan-me.jpg" caption="疫情間空無一人的機場" >}}
 </div>
 
 <br>

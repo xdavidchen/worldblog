@@ -5,7 +5,7 @@ title: "曼哈頓情緣 — Shake Shack"
 description: "冬 ・ 2021 — 紐約隨筆"
 tags: ["紐約", "美國", "曼哈頓", "漢堡"]
 date: 2022-10-12
-thumbnail: img/shake-shack.jpg
+thumbnail: img/shake-shack/shake-shack.jpg
 photoCredits: <a href="https://unsplash.com/@firstinitial_b">Brian</a>
 photoSource: <a href="https://unsplash.com/photos/iypd1qKelRY">Unsplash</a>
 ---
@@ -28,7 +28,7 @@ photoSource: <a href="https://unsplash.com/photos/iypd1qKelRY">Unsplash</a>
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/shake-shack-kevin.jpg" caption="點餐櫃檯 | photo by Kevin" >}}
+{{< image src="img/shake-shack/shake-shack-kevin.jpg" caption="點餐櫃檯 | photo by Kevin" >}}
 </div>
 
 <br>
@@ -50,7 +50,7 @@ photoSource: <a href="https://unsplash.com/photos/iypd1qKelRY">Unsplash</a>
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/first-bite.jpg" caption="第一次吃到 Shake Shack！店內因為疫情沒有開放座位" >}}
+{{< image src="img/shake-shack/first-bite.jpg" caption="第一次吃到 Shake Shack！店內因為疫情沒有開放座位" >}}
 </div>
 
 <br>
@@ -115,7 +115,7 @@ photoSource: <a href="https://unsplash.com/photos/iypd1qKelRY">Unsplash</a>
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/shack-burger-kevin.jpg" caption="招牌漢堡 ShackBurger | photo by Kevin" >}}
+{{< image src="img/shake-shack/shack-burger-kevin.jpg" caption="招牌漢堡 ShackBurger | photo by Kevin" >}}
 </div>
 
 <br>
@@ -131,7 +131,7 @@ photoSource: <a href="https://unsplash.com/photos/iypd1qKelRY">Unsplash</a>
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/combo.jpg" caption="漢堡配薯條... why not? | photo from Unsplash" >}}
+{{< image src="img/shake-shack/combo.jpg" caption="漢堡配薯條... why not? | photo from Unsplash" >}}
 </div>
 
 <br>
@@ -180,7 +180,7 @@ Shake Shack 的奶昔有很多種口味，我試過的有：
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/take-away.jpg" caption="外帶 Shake Shack | photo from Unsplash" >}}
+{{< image src="img/shake-shack/take-away.jpg" caption="外帶 Shake Shack | photo from Unsplash" >}}
 </div>
 
 <br>
