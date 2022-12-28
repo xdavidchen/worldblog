@@ -13,15 +13,25 @@
   #url = "/projects/"
   #weight = 30
 
+#[[main]]
+  #name = "贊助商"
+  #url = "/sponsors/"
+  #weight = 30
+
 [[main]]
   name = "標籤"
   url = "/tags/"
   weight = 40
 
 [[main]]
+  name = "贊助"
+  url = "https://xdavidchen.gumroad.com/l/subscribe"
+  weight = 50
+
+[[main]]
   name = "追蹤茶米"
   url = "https://xdavidchen.com/zh-tw/%E8%A8%82%E9%96%B1/"
-  weight = 50
+  weight = 60
 
 [[social]]
   name = "LinkedIn"
