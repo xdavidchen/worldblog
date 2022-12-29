@@ -4,9 +4,9 @@ slug: "紐約自由行旅遊全攻略"
 title: "紐約自由行旅遊全攻略"
 description: "紐約旅遊須知、交通、景點、住宿、優惠票卷"
 tags: ["紐約", "美國", "曼哈頓", "攻略", "自由行"]
-date: 2022-12-30
+date: 2022-12-29
 thumbnail: img/new-york-travel-guide/statue-of-liberty-horizontal.jpg
-draft: false
+draft: true
 ---
 
 <br>
@@ -62,7 +62,7 @@ draft: false
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/new-york-travel-guide/manhattan.png >}}
+{{< image src="img/new-york-travel-guide/manhattan.png" >}}
 </div>
 
 <br>
@@ -82,7 +82,7 @@ draft: false
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/new-york-travel-guide/wall-street.jpg caption="曼哈頓下城的華爾街" >}}
+{{< image src="img/new-york-travel-guide/wall-street.jpg" caption="曼哈頓下城的華爾街" >}}
 </div>
 
 <br>
@@ -134,7 +134,7 @@ draft: false
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/new-york-travel-guide/new-york-winter.jpg >}}
+{{< image src="img/new-york-travel-guide/new-york-winter.jpg" >}}
 </div>
 
 <br>
@@ -162,7 +162,7 @@ draft: false
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/new-york-travel-guide/airport.jpg >}}
+{{< image src="img/new-york-travel-guide/airport.jpg" >}}
 </div>
 
 <br>
@@ -182,7 +182,7 @@ draft: false
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/new-york-travel-guide/metro-station.jpg >}}
+{{< image src="img/new-york-travel-guide/metro-station.jpg" >}}
 </div>
 
 <br>
@@ -206,7 +206,7 @@ draft: false
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/new-york-travel-guide/taxi.jpg caption="紐約計程車" >}}
+{{< image src="img/new-york-travel-guide/taxi.jpg" caption="紐約計程車" >}}
 </div>
 
 <br>
@@ -289,7 +289,7 @@ draft: false
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/new-york-travel-guide/street-view.jpg >}}
+{{< image src="img/new-york-travel-guide/street-view.jpg" >}}
 </div>
 
 <br>
@@ -307,7 +307,7 @@ draft: false
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/new-york-travel-guide/metro-statoin-entry.jpg caption="地鐵站入口" >}}
+{{< image src="img/new-york-travel-guide/metro-station-entry.jpg" caption="地鐵站入口" >}}
 </div>
 
 <br>
@@ -332,7 +332,7 @@ draft: false
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/new-york-travel-guide/metro-gate.jpg caption="地鐵站驗票口" >}}
+{{< image src="img/new-york-travel-guide/metro-gate.jpg" caption="地鐵站驗票口" >}}
 </div>
 
 <br>
@@ -353,7 +353,7 @@ draft: false
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/new-york-travel-guide/citi-bike.jpg caption="Citibike 腳踏車是很多當地人會使用的交通工具" >}}
+{{< image src="img/new-york-travel-guide/citi-bike.jpg" caption="Citibike 腳踏車是很多當地人會使用的交通工具" >}}
 </div>
 
 <br>
@@ -386,7 +386,7 @@ Uptown 的觀光景點圍繞在中央公園旁，在這裡安排二到三天差�
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/new-york-travel-guide/the-met.jpg >}}
+{{< image src="img/new-york-travel-guide/the-met.jpg" >}}
 </div>
 
 <br>
@@ -403,8 +403,7 @@ Uptown 的觀光景點圍繞在中央公園旁，在這裡安排二到三天差�
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/new-york-travel-guide/museum-natural-history.jpg caption="photo by <a href="https://unsplash.com/@aditya1702?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Aditya Vyas</a> on <a href="https://unsplash.com/s/photos/american-museum-of-natural-history?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-  ">}}
+{{< image src="img/new-york-travel-guide/museum-natural-history.jpg" caption="photo by Aditya Vyas on Unsplash">}}
 </div>
 
 <br>
@@ -421,7 +420,7 @@ Uptown 的觀光景點圍繞在中央公園旁，在這裡安排二到三天差�
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/new-york-travel-guide/central-park-city-view.jpg >}}
+{{< image src="img/new-york-travel-guide/central-park-city-view.jpg" >}}
 </div>
 
 <br>
@@ -468,7 +467,7 @@ Uptown 的觀光景點圍繞在中央公園旁，在這裡安排二到三天差�
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/new-york-travel-guide/andy-warhol.jpg >}}
+{{< image src="img/new-york-travel-guide/andy-warhol.jpg" >}}
 </div>
 
 <br>
@@ -484,7 +483,7 @@ Uptown 的觀光景點圍繞在中央公園旁，在這裡安排二到三天差�
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/new-york-travel-guide/rockefeller-center.jpg >}}
+{{< image src="img/new-york-travel-guide/rockefeller-center.jpg" >}}
 </div>
 
 <br>
@@ -496,7 +495,7 @@ Top of the Rock 觀景台可以往南看到帝國大廈、世貿中心、還有�
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/new-york-travel-guide/top-of-the-rock.jpg >}}
+{{< image src="img/new-york-travel-guide/top-of-the-rock.jpg" >}}
 </div>
 
 <br>
@@ -510,13 +509,13 @@ Top of the Rock 觀景台可以往南看到帝國大廈、世貿中心、還有�
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/new-york-travel-guide/time-square-1.jpg >}}
+{{< image src="img/new-york-travel-guide/time-square-1.jpg" >}}
 </div>
 
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/new-york-travel-guide/time-square-2.jpg >}}
+{{< image src="img/new-york-travel-guide/time-square-2.jpg" >}}
 </div>
 
 <br>
@@ -524,15 +523,6 @@ Top of the Rock 觀景台可以往南看到帝國大廈、世貿中心、還有�
 紐約最多觀光客的所在地、各種品牌購物、餐廳料理，打卡地標都在這裡找得到，由於人潮眾多，所以這裡有很多警察駐點，但來到這裡還是請小心專門騙觀光客的布偶人或是可疑人物，像是我就在這裡遇到在[人群中參加百米衝刺的選手](https://davidchen.world/blog/%E5%9C%A8%E6%99%82%E4%BB%A3%E5%BB%A3%E5%A0%B4%E7%99%BE%E7%B1%B3%E8%A1%9D%E5%88%BA/)。
 
 #### 范德堡一號大樓 Summit One Vanderbilt — 42nd St.
-
-<br>
-
-<div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/new-york-travel-guide/summit-one-vanderbilt.jpg caption="Photo by <a href="https://unsplash.com/es/@alinesalesph?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Aline Sales</a> on <a href="https://unsplash.com/s/photos/summit-one-vanderbilt?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>">}}
-</div>
-
-<br>
-  
 
 2020年新落成的景觀摩天大樓，設有全玻璃打造電梯、鏡面房間、咖啡廳和藝文空間。
 
@@ -544,8 +534,8 @@ Top of the Rock 觀景台可以往南看到帝國大廈、世貿中心、還有�
 
 <br>
 
-<div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/new-york-travel-guide/new-york-library.jpgg caption="photo by <a href="https://unsplash.com/@robertbye?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Robert Bye</a> on <a href="https://unsplash.com/s/photos/new-york-library?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>" >}}
+<div>
+{{< image src="img/new-york-travel-guide/new-york-library.jpg" caption="Photo by Robert Bye on Unsplash" >}}
 </div>
 
 <br>
@@ -560,7 +550,7 @@ Top of the Rock 觀景台可以往南看到帝國大廈、世貿中心、還有�
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/new-york-travel-guide/central-station.jpg >}}
+{{< image src="img/new-york-travel-guide/central-station.jpg" >}}
 </div>
 
 <br>
@@ -575,7 +565,7 @@ Top of the Rock 觀景台可以往南看到帝國大廈、世貿中心、還有�
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/new-york-travel-guide/broadway.jpg >}}
+{{< image src="img/new-york-travel-guide/broadway.jpg" >}}
 </div>
 
 <br>
@@ -587,7 +577,7 @@ Top of the Rock 觀景台可以往南看到帝國大廈、世貿中心、還有�
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/new-york-travel-guide/macys.jpg >}}
+{{< image src="img/new-york-travel-guide/macys.jpg" >}}
 </div>
 
 <br>
@@ -602,7 +592,7 @@ Top of the Rock 觀景台可以往南看到帝國大廈、世貿中心、還有�
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/new-york-travel-guide/empire-state-building.jpg >}}
+{{< image src="img/new-york-travel-guide/empire-state-building.jpg" >}}
 </div>
 
 <br>
@@ -618,7 +608,7 @@ Top of the Rock 觀景台可以往南看到帝國大廈、世貿中心、還有�
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/new-york-travel-guide/vessel.jpg >}}
+{{< image src="img/new-york-travel-guide/vessel.jpg" >}}
 </div>
 
 <br>
@@ -634,7 +624,7 @@ Top of the Rock 觀景台可以往南看到帝國大廈、世貿中心、還有�
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/new-york-travel-guide/madison-square-garden.jpg >}}
+{{< image src="img/new-york-travel-guide/madison-square-garden.jpg" >}}
 </div>
 
 <br>
@@ -652,7 +642,7 @@ NBA 紐約尼克主場，林書豪林來瘋在這裡留下歷史、也做演唱�
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/new-york-travel-guide/flatiron.jpg >}}
+{{< image src="img/new-york-travel-guide/flatiron.jpg" >}}
 </div>
 
 <br>
@@ -666,13 +656,13 @@ NBA 紐約尼克主場，林書豪林來瘋在這裡留下歷史、也做演唱�
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/new-york-travel-guide/little-island.jpg >}}
+{{< image src="img/new-york-travel-guide/little-island.jpg" >}}
 </div>
 
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/new-york-travel-guide/little-island-2.jpg >}}
+{{< image src="img/new-york-travel-guide/little-island-2.jpg" >}}
 </div>
 
 <br>
@@ -687,7 +677,7 @@ NBA 紐約尼克主場，林書豪林來瘋在這裡留下歷史、也做演唱�
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/new-york-travel-guide/washington-square-park.jpg caption="photo by Kevin" >}}
+{{< image src="img/new-york-travel-guide/washington-square-park.jpg" caption="photo by Kevin" >}}
 </div>
 
 <br>
@@ -702,8 +692,7 @@ NBA 紐約尼克主場，林書豪林來瘋在這裡留下歷史、也做演唱�
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/new-york-travel-guide/nyu.jpg caption="photo by <a href="https://unsplash.com/@plover37?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jeremy Huang</a> on <a href="https://unsplash.com/s/photos/new-york-university?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-  " >}}
+{{< image src="img/new-york-travel-guide/nyu.jpg" caption="photo by Jeremy Huang on Unsplash" >}}
 </div>
 
 <br>
@@ -734,7 +723,7 @@ NBA 紐約尼克主場，林書豪林來瘋在這裡留下歷史、也做演唱�
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/new-york-travel-guide/dumbo-new-york.jpg >}}
+{{< image src="img/new-york-travel-guide/dumbo-new-york.jpg" >}}
 </div>
 
 <br>
@@ -748,7 +737,7 @@ NBA 紐約尼克主場，林書豪林來瘋在這裡留下歷史、也做演唱�
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/new-york-travel-guide/world-trade-center.jpg caption="photo by Kevin" >}}
+{{< image src="img/new-york-travel-guide/world-trade-center.jpg" caption="photo by Kevin" >}}
 </div>
 
 <br>
@@ -758,7 +747,7 @@ NBA 紐約尼克主場，林書豪林來瘋在這裡留下歷史、也做演唱�
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/new-york-travel-guide/westfield-world-trade-center.jpg caption="世貿中心的購物商場 | photo by Kevin" >}}
+{{< image src="img/new-york-travel-guide/westfield-world-trade-center.jpg" caption="世貿中心的購物商場 | photo by Kevin" >}}
 </div>
 
 <br>
@@ -783,7 +772,7 @@ NBA 紐約尼克主場，林書豪林來瘋在這裡留下歷史、也做演唱�
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/new-york-travel-guide/stock-exchange.jpg caption="證券交易所" >}}
+{{< image src="img/new-york-travel-guide/stock-exchange.jpg" caption="證券交易所" >}}
 </div>
 
 <br>
@@ -793,7 +782,7 @@ NBA 紐約尼克主場，林書豪林來瘋在這裡留下歷史、也做演唱�
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/new-york-travel-guide/wall-street-bull.jpg >}}
+{{< image src="img/new-york-travel-guide/wall-street-bull.jpg" >}}
 </div>
 
 <br>
@@ -803,7 +792,7 @@ NBA 紐約尼克主場，林書豪林來瘋在這裡留下歷史、也做演唱�
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/new-york-travel-guide/statue-of-liberty-horizontal.jpg >}}
+{{< image src="img/new-york-travel-guide/statue-of-liberty-horizontal.jpg" >}}
 </div>
 
 <br>
@@ -824,7 +813,7 @@ NBA 紐約尼克主場，林書豪林來瘋在這裡留下歷史、也做演唱�
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/new-york-travel-guide/soho-street.jpg >}}
+{{< image src="img/new-york-travel-guide/soho-street.jpg" >}}
 </div>
 
 <br>
@@ -838,7 +827,7 @@ NBA 紐約尼克主場，林書豪林來瘋在這裡留下歷史、也做演唱�
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/new-york-travel-guide/china-town.jpg >}}
+{{< image src="img/new-york-travel-guide/china-town.jpg" >}}
 </div>
 
 <br>
@@ -850,7 +839,7 @@ NBA 紐約尼克主場，林書豪林來瘋在這裡留下歷史、也做演唱�
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/new-york-travel-guide/trinity-church.jpg >}}
+{{< image src="img/new-york-travel-guide/trinity-church.jpg" >}}
 </div>
 
 <br>
@@ -860,14 +849,14 @@ NBA 紐約尼克主場，林書豪林來瘋在這裡留下歷史、也做演唱�
 - 地址：89 Broadway, New York, NY 10006, United States
 - 營業時間：每日 8:30 ~ 18:00
 
-## 貴死人的好歸宿 — 紐約飯店＆旅館推薦
+## 貴死人的好歸宿 — 紐約飯店＆旅館
 
 ### Pod Times Square
 
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/new-york-travel-guide/pod-room.jpg caption="從房間內看出去的景觀" >}}
+{{< image src="img/new-york-travel-guide/pod-room.jpg" caption="從房間內看出去的景觀" >}}
 </div>
 
 <br>
@@ -876,17 +865,17 @@ NBA 紐約尼克主場，林書豪林來瘋在這裡留下歷史、也做演唱�
 
 雙人房一晚的價格大約落在台幣三千元左右，在曼哈頓市中心來說是非常便宜的價格。雖然房間不大，托運的 27寸或29寸行李箱應該沒辦法全開，但以這個價格住在這個地點真的沒話說，步行就能到時代廣場，離地鐵站不遠、公車總站也近，在中城區往上城或下城都很方便，是曼哈頓的精華地段。
 
-- 地址：
+- 地址：400 W 42nd St, New York
 - [查看房價](https://www.booking.com/hotel/us/pod-times-square.xt.html?aid=7956794&no_rooms=1&group_adults=2&room1=A%2CA)
 
 ### Pod 39
 
-- 地址：
+- 地址：145 E 39th St, New York
 - [查看房價](https://www.booking.com/hotel/us/the-pod-39th-street.xt.html?aid=7956794&no_rooms=1&group_adults=2&room1=A%2CA)
 
 ### Pod 51
 
-- 地址：
+- 地址：230 E 51st St, New York
 - [查看房價](https://www.booking.com/hotel/us/pod.xt.html?aid=7956794&no_rooms=1&group_adults=2&room1=A%2CA)
 
 <!-- 台灣人開的飯店？ -->
@@ -898,7 +887,7 @@ NBA 紐約尼克主場，林書豪林來瘋在這裡留下歷史、也做演唱�
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/new-york-travel-guide/new-york-citypass.jpg >}}
+{{< image src="img/new-york-travel-guide/new-york-citypass.jpg" >}}
 </div>
 
 <br>
@@ -906,12 +895,15 @@ NBA 紐約尼克主場，林書豪林來瘋在這裡留下歷史、也做演唱�
 紐約旅遊套票（New York City Pass）包含了紐約五大景點的門票，售價約為原價六折。
 
 - 價格：129 美金｜孩童（17歲以下） 109 美金
+
 - **景點包含：**
   - 帝國大廈
   - 美國自然歷史博物館
   - 峭石之巔觀景台（Top of the Rock） **或** 古根海姆博物館
   - 自由女神像和埃利斯島 **或** 環線觀光遊輪
   - 911 紀念館和博物館 **或** "無畏"號海洋航空航天博物館
+
+<br>
 
 - **如何使用：**
   1. 透過[紐約旅遊套票](https://affiliate.klook.com/redirect?aid=30002&aff_adid=636616&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F11167-new-york-city-pass-attractions-new-york%2F)連結購買後，票卷會寄到訂購時提供的電子郵件信箱。
@@ -921,7 +913,7 @@ NBA 紐約尼克主場，林書豪林來瘋在這裡留下歷史、也做演唱�
 <br>
 
 <div class="col-sm-12 col-md-8 mx-auto">
-{{< image src="img/new-york-travel-guide/citypass-ticket-mobile.png >}}
+{{< image src="img/new-york-travel-guide/citypass-ticket-mobile.png" >}}
 </div>
 
 <br>
@@ -933,8 +925,6 @@ NBA 紐約尼克主場，林書豪林來瘋在這裡留下歷史、也做演唱�
 
 購買連結：[紐約旅遊套票](https://affiliate.klook.com/redirect?aid=30002&aff_adid=636616&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F11167-new-york-city-pass-attractions-new-york%2F)。
 
-![點我購買](https://affiliate.klook.com/redirect?aid=30002&aff_adid=636616&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F11167-new-york-city-pass-attractions-new-york%2F) ←
-
 [^1]: 布朗克斯（The Bronx）、曼哈頓（Manhattan）、皇后區（Queens）、布魯克林（Brooklyn）、史泰登島（Staten Island）
-[^2]: 來自 [此新聞](https://www.insider.com/family-of-michelle-alyssa-go-speaks-out-after-deadly-attack-2022-1)
-[^3]: 來自 [此新聞](https://abc7ny.com/hammer-attack-subway-brutal-robbery-woman-new-york/11598857/)
+[^2]: [新聞來源](https://www.insider.com/family-of-michelle-alyssa-go-speaks-out-after-deadly-attack-2022-1)
+[^3]: [新聞來源](https://abc7ny.com/hammer-attack-subway-brutal-robbery-woman-new-york/11598857/)
