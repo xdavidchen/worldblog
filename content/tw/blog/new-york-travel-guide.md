@@ -4,9 +4,8 @@ slug: "紐約自由行旅遊全攻略"
 title: "紐約自由行旅遊全攻略"
 description: "紐約旅遊須知、交通、景點、住宿、優惠票卷"
 tags: ["紐約", "美國", "曼哈頓", "攻略", "自由行"]
-date: 2022-12-29
+date: 2023-01-03
 thumbnail: img/new-york-travel-guide/statue-of-liberty-horizontal.jpg
-draft: true
 ---
 
 <br>
@@ -41,7 +40,7 @@ draft: true
 
 <br>
 
-<div class="col-sm-12 col-md-8 mx-auto">
+<div class="mx-auto">
 {{< image src="img/new-york-travel-guide/new-york-city-map.png" >}}
 </div>
 
@@ -61,7 +60,7 @@ draft: true
 
 <br>
 
-<div class="col-sm-12 col-md-8 mx-auto">
+<div class="mx-auto">
 {{< image src="img/new-york-travel-guide/manhattan.png" >}}
 </div>
 
@@ -81,7 +80,7 @@ draft: true
 
 <br>
 
-<div class="col-sm-12 col-md-8 mx-auto">
+<div class="mx-auto">
 {{< image src="img/new-york-travel-guide/wall-street.jpg" caption="曼哈頓下城的華爾街" >}}
 </div>
 
@@ -133,7 +132,7 @@ draft: true
 
 <br>
 
-<div class="col-sm-12 col-md-8 mx-auto">
+<div class="mx-auto">
 {{< image src="img/new-york-travel-guide/new-york-winter.jpg" >}}
 </div>
 
@@ -161,7 +160,7 @@ draft: true
 
 <br>
 
-<div class="col-sm-12 col-md-8 mx-auto">
+<div class="mx-auto">
 {{< image src="img/new-york-travel-guide/airport.jpg" >}}
 </div>
 
@@ -169,7 +168,9 @@ draft: true
 
 如果你是搭飛機來到紐約，通常你會降落在三個機場之一：甘迺迪國際機場、紐瓦克國際機場、拉瓜迪亞機場。
 
-**甘迺迪國際機場（John F. Kennedy International Airport, JFK）**
+<br>
+
+#### 甘迺迪國際機場（John F. Kennedy International Airport, JFK）
 
 大部分的人來到紐約都會降落在甘迺迪機場，從這裡來回曼哈頓市中心有三種方式：
 
@@ -181,7 +182,7 @@ draft: true
 
 <br>
 
-<div class="col-sm-12 col-md-8 mx-auto">
+<div class="mx-auto">
 {{< image src="img/new-york-travel-guide/metro-station.jpg" >}}
 </div>
 
@@ -201,11 +202,13 @@ draft: true
 - **優點**：價格低
 - **缺點**：只能使用地鐵卡付費（Metro Card）、需搬運行李、非點到點移動、較不安全、有可能誤點
 
+<br>
+
 **2. 計程車**
 
 <br>
 
-<div class="col-sm-12 col-md-8 mx-auto">
+<div class="mx-auto">
 {{< image src="img/new-york-travel-guide/taxi.jpg" caption="紐約計程車" >}}
 </div>
 
@@ -220,7 +223,13 @@ draft: true
 - **優點**：免搬行李、價格落差小、點到點移動、多人可平分費用、全天營運
 - **缺點**：價格較高、有可能塞車
 
-⚠️機場官方聲明：請小心避免機場航廈內非法拉客的司機，直接前往航廈外的計程車招呼站搭乘。
+<br>
+
+<blockquote class="blockquote">
+    ❗️機場官方聲明：請小心避免機場航廈內非法拉客的司機，直接前往航廈外的計程車招呼站搭乘。
+</blockquote>
+
+<br>
 
 **3. Uber 或 Lyft**
 
@@ -231,7 +240,11 @@ draft: true
 - **優點**：免搬行李、點到點移動、價格計算方式單一、價格有可能比計程車低、多人可平分費用、全天營運。
 - **缺點**：價格浮動大、有可能塞車
 
-**甘迺迪機場往返紐約市區比較表**
+<br>
+
+#### 甘迺迪機場往返紐約市區比較表
+
+<br>
 
 <table class="table">
     <tr>
@@ -256,11 +269,17 @@ draft: true
     </tr>
 </table>
 
-更多詳細資料，請參考甘迺迪機場[官方網站](https://www.jfkairport.com/to-from-airport/public-transportation)。
+<br>
 
-**紐瓦克國際機場（Newark Liberty International Airport, EWR）**
+<blockquote class="blockquote">
+    更多詳細資料，請參考甘迺迪機場<a href="https://www.jfkairport.com/to-from-airport/public-transportation">官方網站</a>。
+</blockquote>
 
-紐瓦克機場的班機主要服務美國國內和歐洲國際線。由於這個機場位在離曼哈頓較遠的紐澤西州，因此沒有地鐵進紐約市區。
+<br>
+
+#### 紐瓦克國際機場（Newark Liberty International Airport, EWR）
+
+紐瓦克機場的班機主要服務美國國內和歐洲國際線。這個機場位在離曼哈頓較遠的紐澤西州，因此沒有地鐵進紐約市區。
 
 從這裡到曼哈頓的交通方式有巴士、計程車、 Uber 或 Lyft、還有機場捷運 AirTrain。
 
@@ -270,7 +289,9 @@ draft: true
 
 更多關於紐瓦克機場的交通資訊，可以參考紐瓦克國際機場[官方網站](https://www.newarkairport.com/to-from-airport/public-transportation)。
 
-**拉瓜迪亞機場 (LaGuardia Airport, LGA）**
+<br>
+
+#### 拉瓜迪亞機場 (LaGuardia Airport, LGA）
 
 從機場的[官方網站](https://laguardiaairport.com/)來看，拉瓜迪亞機場的航線目前都是美國國內線，大部分的人應該不會降落在這個機場。
 
@@ -280,15 +301,19 @@ draft: true
 
 如果你很懶想要我整理給你，歡迎[來信](mailto:david@xdavidchen.com)承認你很懶，我會幫你整理資訊。
 
-> *由於我三次前往紐約旅遊都不是從機場出發，所以這是唯一一個部分我自己沒有所有交通方式都親身體驗過，而是整合國內外網站能夠查到的、**非自行租車**的大眾交通做整合。
+<br>
 
----
+<blockquote class="blockquote">
+    ❗️由於我三次前往紐約旅遊都不是從機場出發，所以這是唯一一個部分我自己沒有所有交通方式都親身體驗過，而是整合國內外網站能夠查到的、<strong>非自行租車</strong>的大眾交通做整合。
+</blockquote>
+
+<br>
 
 ### 市區交通 — 雙腿
 
 <br>
 
-<div class="col-sm-12 col-md-8 mx-auto">
+<div class="mx-auto">
 {{< image src="img/new-york-travel-guide/street-view.jpg" >}}
 </div>
 
@@ -300,13 +325,13 @@ draft: true
 
 在紐約會讓你有一種「真的在逛街」的感覺。
 
----
+<br>
 
 ### 市區交通 — 地鐵
 
 <br>
 
-<div class="col-sm-12 col-md-8 mx-auto">
+<div class="mx-auto">
 {{< image src="img/new-york-travel-guide/metro-station-entry.jpg" caption="地鐵站入口" >}}
 </div>
 
@@ -331,7 +356,7 @@ draft: true
 
 <br>
 
-<div class="col-sm-12 col-md-8 mx-auto">
+<div class="mx-auto">
 {{< image src="img/new-york-travel-guide/metro-gate.jpg" caption="地鐵站驗票口" >}}
 </div>
 
@@ -346,13 +371,13 @@ draft: true
 - **請當好小孩**：
   在進站刷卡的時候，你可能會看到很多地鐵跳跳人。沒錯，他們正在逃票，就算在警察面前他們也照樣這樣做。身為旅客請認命花錢，我希望你能平安快樂回家。
 
----
+<br>
 
 ### 其他交通方式
 
 <br>
 
-<div class="col-sm-12 col-md-8 mx-auto">
+<div class="mx-auto">
 {{< image src="img/new-york-travel-guide/citi-bike.jpg" caption="Citibike 腳踏車是很多當地人會使用的交通工具" >}}
 </div>
 
@@ -383,9 +408,7 @@ Uptown 的觀光景點圍繞在中央公園旁，在這裡安排二到三天差�
 
 #### 大都會藝術博物館 The Metropolitan Museum of Art — 82nd St.
 
-<br>
-
-<div class="col-sm-12 col-md-8 mx-auto">
+<div class="mx-auto">
 {{< image src="img/new-york-travel-guide/the-met.jpg" >}}
 </div>
 
@@ -397,12 +420,11 @@ Uptown 的觀光景點圍繞在中央公園旁，在這裡安排二到三天差�
 - 營業時間：10:00 ~ 21:00（每週三休館、感恩節、聖誕節、新年、五月第一個星期一休館）
 - 門票：30 美金｜學生 17 美金｜敬老（65 歲以上） 22 美金｜孩童（12 歲以下）免，詳見[官網](https://www.metmuseum.org/visit/plan-your-visit#tickets)。
 
+<br>
 
 #### 美國自然史博物館 American Museum of Natural History — 79th St.
 
-<br>
-
-<div class="col-sm-12 col-md-8 mx-auto">
+<div class="mx-auto">
 {{< image src="img/new-york-travel-guide/museum-natural-history.jpg" caption="photo by Aditya Vyas on Unsplash">}}
 </div>
 
@@ -414,12 +436,11 @@ Uptown 的觀光景點圍繞在中央公園旁，在這裡安排二到三天差�
 - 營業時間：每日 10:00 ~ 17:30（感恩節和聖誕節休館）
 - 門票：28 美金｜學生 22 美金｜敬老（65 歲以上） 22 美金｜孩童（12 歲以下）16 美金，詳見[官網](https://tickets.amnh.org/select)，**包含在紐約旅遊套票 New York City Pass 內**。
 
+<br>
 
 #### 中央公園 Central Park — 59th St.
 
-<br>
-
-<div class="col-sm-12 col-md-8 mx-auto">
+<div class="mx-auto">
 {{< image src="img/new-york-travel-guide/central-park-city-view.jpg" >}}
 </div>
 
@@ -433,14 +454,16 @@ Uptown 的觀光景點圍繞在中央公園旁，在這裡安排二到三天差�
 
 #### 路過看看
 
-**茱麗亞音樂學院 The Juilliard School / 林肯中心 Lincoln Center for the Performing Arts — 65th St.**
+##### 茱麗亞音樂學院 The Juilliard School / 林肯中心 Lincoln Center for the Performing Arts — 65th St.
 
 世界頂尖的音樂學院。
 
 - 地址：60 Lincoln Center Plaza, New York
 - 營業時間：參觀學校需預約，詳見[官網](https://apply.juilliard.edu/portal/virtualtour?_ga=2.126562573.1617274202.1595251724-1903020375.1584069539)。
 
-**中央公園內動物園 Central Park Zoo - 64th St.**
+<br>
+
+##### 中央公園內動物園 Central Park Zoo - 64th St.
 
 <br>
 
@@ -464,9 +487,7 @@ Uptown 的觀光景點圍繞在中央公園旁，在這裡安排二到三天差�
 
 #### 紐約現代藝術美術館 The Museum of Modern Art (MoMA) — 53rd St.
 
-<br>
-
-<div class="col-sm-12 col-md-8 mx-auto">
+<div class="mx-auto">
 {{< image src="img/new-york-travel-guide/andy-warhol.jpg" >}}
 </div>
 
@@ -478,11 +499,11 @@ Uptown 的觀光景點圍繞在中央公園旁，在這裡安排二到三天差�
 - 營業時間：週日到週五 10:30 ~ 17:30；週六 10:30 ~ 19:00
 - 門票：25 美金｜學生 14 美金｜敬老（65 歲以上）和身障人士 18 美金｜孩童（16 歲以下）免，詳見[官網](https://www.moma.org/tickets/select)。
 
-#### 洛克菲勒中心 Rockefeller Center — 50th St.
-
 <br>
 
-<div class="col-sm-12 col-md-8 mx-auto">
+#### 洛克菲勒中心 Rockefeller Center — 50th St.
+
+<div class="mx-auto">
 {{< image src="img/new-york-travel-guide/rockefeller-center.jpg" >}}
 </div>
 
@@ -494,7 +515,7 @@ Top of the Rock 觀景台可以往南看到帝國大廈、世貿中心、還有�
 
 <br>
 
-<div class="col-sm-12 col-md-8 mx-auto">
+<div class="mx-auto">
 {{< image src="img/new-york-travel-guide/top-of-the-rock.jpg" >}}
 </div>
 
@@ -504,23 +525,25 @@ Top of the Rock 觀景台可以往南看到帝國大廈、世貿中心、還有�
 - 觀景台開放時間：早上 9:00 ~ 晚上 11:00
 - 門票：40 美金｜孩童 34 美金｜敬老 38 美金，推薦使用[紐約旅遊套票](https://affiliate.klook.com/redirect?aid=30002&aff_adid=636616&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F11167-new-york-city-pass-attractions-new-york%2F)。
 
-#### 時代廣場 Times Square — 45th St.
-
 <br>
 
-<div class="col-sm-12 col-md-8 mx-auto">
+#### 時代廣場 Times Square — 45th St.
+
+<div class="mx-auto">
 {{< image src="img/new-york-travel-guide/time-square-1.jpg" >}}
 </div>
 
 <br>
 
-<div class="col-sm-12 col-md-8 mx-auto">
+<div class="mx-auto">
 {{< image src="img/new-york-travel-guide/time-square-2.jpg" >}}
 </div>
 
 <br>
 
 紐約最多觀光客的所在地、各種品牌購物、餐廳料理，打卡地標都在這裡找得到，由於人潮眾多，所以這裡有很多警察駐點，但來到這裡還是請小心專門騙觀光客的布偶人或是可疑人物，像是我就在這裡遇到在[人群中參加百米衝刺的選手](https://davidchen.world/blog/%E5%9C%A8%E6%99%82%E4%BB%A3%E5%BB%A3%E5%A0%B4%E7%99%BE%E7%B1%B3%E8%A1%9D%E5%88%BA/)。
+
+<br>
 
 #### 范德堡一號大樓 Summit One Vanderbilt — 42nd St.
 
@@ -530,9 +553,9 @@ Top of the Rock 觀景台可以往南看到帝國大廈、世貿中心、還有�
 - 營業時間：每日 9:00 ~ 23:00
 - 門票：基本 39 美金｜孩童（6 ~ 12 歲）33 美金，搭乘玻璃電梯須加 20 美金。
 
-#### 紐約公共圖書館 New York Public Library — 42nd St.
-
 <br>
+
+#### 紐約公共圖書館 New York Public Library — 42nd St.
 
 <div>
 {{< image src="img/new-york-travel-guide/new-york-library.jpg" caption="Photo by Robert Bye on Unsplash" >}}
@@ -545,11 +568,11 @@ Top of the Rock 觀景台可以往南看到帝國大廈、世貿中心、還有�
 - 地址：476 5th Ave, New York
 - 開放時間：週一到週六 10:00 ~ 18:00；週日 13:00 ~ 17:00
 
-#### 紐約中央車站 Grand Central Terminal — 42nd St.
-
 <br>
 
-<div class="col-sm-12 col-md-8 mx-auto">
+#### 紐約中央車站 Grand Central Terminal — 42nd St.
+
+<div class="mx-auto">
 {{< image src="img/new-york-travel-guide/central-station.jpg" >}}
 </div>
 
@@ -560,11 +583,11 @@ Top of the Rock 觀景台可以往南看到帝國大廈、世貿中心、還有�
 - 地址：89 E 42nd St, New York
 - 營業時間：每日 5:15 ~ 2:00
 
-#### 百老匯大道 — 貫穿曼哈頓
-
 <br>
 
-<div class="col-sm-12 col-md-8 mx-auto">
+#### 百老匯大道 — 貫穿曼哈頓
+
+<div class="mx-auto">
 {{< image src="img/new-york-travel-guide/broadway.jpg" >}}
 </div>
 
@@ -572,11 +595,11 @@ Top of the Rock 觀景台可以往南看到帝國大廈、世貿中心、還有�
 
 百老匯大道上有許多劇院，每間劇院上演不同的百老匯秀，熱門的秀一天都會演 2 ~ 3場，我自己在 2022年初看了歌劇魅影，非常推薦，不過很可惜的是歌劇魅影在 2023年已經宣布停演了，其他秀的詳細資訊我日後補上！
 
-#### 梅西百貨 Macy's — 34th St.
-
 <br>
 
-<div class="col-sm-12 col-md-8 mx-auto">
+#### 梅西百貨 Macy's — 34th St.
+
+<div class="mx-auto">
 {{< image src="img/new-york-travel-guide/macys.jpg" >}}
 </div>
 
@@ -587,11 +610,11 @@ Top of the Rock 觀景台可以往南看到帝國大廈、世貿中心、還有�
 - 地址：151 W 34th St., New York
 - 營業時間：10AM - 10PM
 
-#### 帝國大廈 Empire State Building — 34th St.
-
 <br>
 
-<div class="col-sm-12 col-md-8 mx-auto">
+#### 帝國大廈 Empire State Building — 34th St.
+
+<div class="mx-auto">
 {{< image src="img/new-york-travel-guide/empire-state-building.jpg" >}}
 </div>
 
@@ -603,11 +626,11 @@ Top of the Rock 觀景台可以往南看到帝國大廈、世貿中心、還有�
 - 營業時間：週一到週四 10:00 ~ 22:00；週五到週日 9:00 ~ 22:00。
 - 門票：44 美金｜孩童 38 美金｜敬老 42 美金，推薦使用[紐約旅遊套票](https://affiliate.klook.com/redirect?aid=30002&aff_adid=636616&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F11167-new-york-city-pass-attractions-new-york%2F)。
 
-#### 松果 The Vessel — 34th St.
-
 <br>
 
-<div class="col-sm-12 col-md-8 mx-auto">
+#### 松果 The Vessel — 34th St.
+
+<div class="mx-auto">
 {{< image src="img/new-york-travel-guide/vessel.jpg" >}}
 </div>
 
@@ -619,11 +642,11 @@ Top of the Rock 觀景台可以往南看到帝國大廈、世貿中心、還有�
 - 營業時間：暫停開放，可在一樓拍照。
 - 門票：觀景台已關閉。
 
-#### 麥迪遜廣場花園球場 Madison Square Garden — 31st St.
-
 <br>
 
-<div class="col-sm-12 col-md-8 mx-auto">
+#### 麥迪遜廣場花園球場 Madison Square Garden — 31st St.
+
+<div class="mx-auto">
 {{< image src="img/new-york-travel-guide/madison-square-garden.jpg" >}}
 </div>
 
@@ -639,9 +662,7 @@ NBA 紐約尼克主場，林書豪林來瘋在這裡留下歷史、也做演唱�
 
 #### 熨斗大廈 Flatiron Building — 23rd St.
 
-<br>
-
-<div class="col-sm-12 col-md-8 mx-auto">
+<div class="mx-auto">
 {{< image src="img/new-york-travel-guide/flatiron.jpg" >}}
 </div>
 
@@ -651,17 +672,17 @@ NBA 紐約尼克主場，林書豪林來瘋在這裡留下歷史、也做演唱�
 
 - 地址：175 5th Ave, New York
 
-#### 漂浮公園 Little Island — 14th St.
-
 <br>
 
-<div class="col-sm-12 col-md-8 mx-auto">
+#### 漂浮公園 Little Island — 14th St.
+
+<div class="mx-auto">
 {{< image src="img/new-york-travel-guide/little-island.jpg" >}}
 </div>
 
 <br>
 
-<div class="col-sm-12 col-md-8 mx-auto">
+<div class="mx-auto">
 {{< image src="img/new-york-travel-guide/little-island-2.jpg" >}}
 </div>
 
@@ -672,11 +693,11 @@ NBA 紐約尼克主場，林書豪林來瘋在這裡留下歷史、也做演唱�
 - 地址：Pier 55 at Hudson River Park Hudson River Greenway
 - 開放時間：6:00 ~ 9:00
 
-#### 華盛頓公園 Washington Square Park — 6th St.
-
 <br>
 
-<div class="col-sm-12 col-md-8 mx-auto">
+#### 華盛頓公園 Washington Square Park — 6th St.
+
+<div class="mx-auto">
 {{< image src="img/new-york-travel-guide/washington-square-park.jpg" caption="photo by Kevin" >}}
 </div>
 
@@ -687,11 +708,11 @@ NBA 紐約尼克主場，林書豪林來瘋在這裡留下歷史、也做演唱�
 - 地址：Washington Square N, New York
 - 營業時間：每日 6:00 ~ 1:00
 
-#### 紐約大學 New York University — 4th St.
-
 <br>
 
-<div class="col-sm-12 col-md-8 mx-auto">
+#### 紐約大學 New York University — 4th St.
+
+<div class="mx-auto">
 {{< image src="img/new-york-travel-guide/nyu.jpg" caption="photo by Jeremy Huang on Unsplash" >}}
 </div>
 
@@ -702,11 +723,11 @@ NBA 紐約尼克主場，林書豪林來瘋在這裡留下歷史、也做演唱�
 - 書店地址：726 Broadway, New York
 - 營業時間：週一到週六 9:00 ~ 18:00
 
-#### 布魯克林大橋 Brooklyn Bridge — Metro Brooklyn Bridge City Hall Station
-
 <br>
 
-<div class="col-sm-12 col-md-8 mx-auto">
+#### 布魯克林大橋 Brooklyn Bridge — Metro Brooklyn Bridge City Hall Station
+
+<div class="mx-auto">
 {{< image src="img/new-york-travel-guide/brooklyn-bridge.jpg" >}}
 </div>
 
@@ -718,11 +739,11 @@ NBA 紐約尼克主場，林書豪林來瘋在這裡留下歷史、也做演唱�
 - 營業時間：全年開放
 - 門票：免
 
-#### The Dumbo
-
 <br>
 
-<div class="col-sm-12 col-md-8 mx-auto">
+#### The Dumbo
+
+<div class="mx-auto">
 {{< image src="img/new-york-travel-guide/dumbo-new-york.jpg" >}}
 </div>
 
@@ -732,11 +753,11 @@ NBA 紐約尼克主場，林書豪林來瘋在這裡留下歷史、也做演唱�
 
 - 地址：39-21 Washington St, Brooklyn
 
-#### 世貿中心 World Trade Center
-
 <br>
 
-<div class="col-sm-12 col-md-8 mx-auto">
+#### 世貿中心 World Trade Center
+
+<div class="mx-auto">
 {{< image src="img/new-york-travel-guide/world-trade-center.jpg" caption="photo by Kevin" >}}
 </div>
 
@@ -746,7 +767,7 @@ NBA 紐約尼克主場，林書豪林來瘋在這裡留下歷史、也做演唱�
 
 <br>
 
-<div class="col-sm-12 col-md-8 mx-auto">
+<div class="mx-auto">
 {{< image src="img/new-york-travel-guide/westfield-world-trade-center.jpg" caption="世貿中心的購物商場 | photo by Kevin" >}}
 </div>
 
@@ -757,7 +778,7 @@ NBA 紐約尼克主場，林書豪林來瘋在這裡留下歷史、也做演唱�
 
 <br>
 
-<div class="col-sm-12 col-md-8 mx-auto">
+<div class="mx-auto">
 {{< image src="img/new-york-travel-guide/911-museum.jpg" >}}
 </div>
 
@@ -767,11 +788,11 @@ NBA 紐約尼克主場，林書豪林來瘋在這裡留下歷史、也做演唱�
 - 911 紀念博物館營業時間：週二公休，10:00 ~ 17:00
 - 門票：29 美金｜孩童（7 ~ 12歲） 17 美金｜青年（13 ~ 17 歲）23 美金｜敬老（65歲以上）23 美金｜6歲以下免，推薦使用[紐約旅遊套票](https://affiliate.klook.com/redirect?aid=30002&aff_adid=636616&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F11167-new-york-city-pass-attractions-new-york%2F)。
 
-#### 華爾街 Wall Street
-
 <br>
 
-<div class="col-sm-12 col-md-8 mx-auto">
+#### 華爾街 Wall Street
+
+<div class="mx-auto">
 {{< image src="img/new-york-travel-guide/stock-exchange.jpg" caption="證券交易所" >}}
 </div>
 
@@ -781,7 +802,7 @@ NBA 紐約尼克主場，林書豪林來瘋在這裡留下歷史、也做演唱�
 
 <br>
 
-<div class="col-sm-12 col-md-8 mx-auto">
+<div class="mx-auto">
 {{< image src="img/new-york-travel-guide/wall-street-bull.jpg" >}}
 </div>
 
@@ -789,9 +810,7 @@ NBA 紐約尼克主場，林書豪林來瘋在這裡留下歷史、也做演唱�
 
 #### 自由女神像 Statue of Liberty
 
-<br>
-
-<div class="col-sm-12 col-md-8 mx-auto">
+<div class="mx-auto">
 {{< image src="img/new-york-travel-guide/statue-of-liberty-horizontal.jpg" >}}
 </div>
 
@@ -805,14 +824,13 @@ NBA 紐約尼克主場，林書豪林來瘋在這裡留下歷史、也做演唱�
 - 營業時間：9:00 ~ 17:00
 
 <!-- Battery Park、自由女神島、移民博物館 -->
+<br>
 
 #### 路過看看
 
-**蘇活區 Soho — Houston St. & Canal St. 之間**
+##### 蘇活區 Soho — Houston St. & Canal St. 之間
 
-<br>
-
-<div class="col-sm-12 col-md-8 mx-auto">
+<div class="mx-auto">
 {{< image src="img/new-york-travel-guide/soho-street.jpg" >}}
 </div>
 
@@ -822,11 +840,11 @@ NBA 紐約尼克主場，林書豪林來瘋在這裡留下歷史、也做演唱�
 
 - 地址：Houston St. & Canal St. 之間
 
-**唐人街 Chinatown — Canal St.**
-
 <br>
 
-<div class="col-sm-12 col-md-8 mx-auto">
+##### 唐人街 Chinatown — Canal St.
+
+<div class="mx-auto">
 {{< image src="img/new-york-travel-guide/china-town.jpg" >}}
 </div>
 
@@ -834,11 +852,11 @@ NBA 紐約尼克主場，林書豪林來瘋在這裡留下歷史、也做演唱�
 
 華人集散地，有不少人在擺地攤販賣冒牌奢侈包，也有很多亞洲餐廳在此區域。
 
-**三一教堂 Trinity Church — Wall St.**
-
 <br>
 
-<div class="col-sm-12 col-md-8 mx-auto">
+##### 三一教堂 Trinity Church — Wall St.
+
+<div class="mx-auto">
 {{< image src="img/new-york-travel-guide/trinity-church.jpg" >}}
 </div>
 
@@ -853,9 +871,7 @@ NBA 紐約尼克主場，林書豪林來瘋在這裡留下歷史、也做演唱�
 
 ### Pod Times Square
 
-<br>
-
-<div class="col-sm-12 col-md-8 mx-auto">
+<div class="mx-auto">
 {{< image src="img/new-york-travel-guide/pod-room.jpg" caption="從房間內看出去的景觀" >}}
 </div>
 
@@ -882,11 +898,9 @@ NBA 紐約尼克主場，林書豪林來瘋在這裡留下歷史、也做演唱�
 
 ## 當荷包在哭泣 — 紐約優惠＆票卷
 
-### New York City Pass
+### New York City Pass 紐約旅遊套票
 
-<br>
-
-<div class="col-sm-12 col-md-8 mx-auto">
+<div class="mx-auto">
 {{< image src="img/new-york-travel-guide/new-york-citypass.jpg" >}}
 </div>
 
@@ -912,7 +926,7 @@ NBA 紐約尼克主場，林書豪林來瘋在這裡留下歷史、也做演唱�
 
 <br>
 
-<div class="col-sm-12 col-md-8 mx-auto">
+<div class="mx-auto">
 {{< image src="img/new-york-travel-guide/citypass-ticket-mobile.png" >}}
 </div>
 

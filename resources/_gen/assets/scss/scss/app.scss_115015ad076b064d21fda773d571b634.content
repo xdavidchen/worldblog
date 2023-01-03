@@ -16608,6 +16608,7 @@ readers do not read off random characters that represent icons */
   content: "\f3f6"; }
 
 .blockquote {
+  font-size: medium;
   border-left: 0.3rem solid;
   border-color: #6c757d;
   padding: 1rem 1.5rem; }
