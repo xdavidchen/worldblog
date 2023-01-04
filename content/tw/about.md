@@ -41,7 +41,7 @@ showComments: false
 
 <br>
 
-<div class="col-sm-12 col-md-8 mx-auto">
+<div class="mx-auto">
 {{< image src="img/copenhagen-streetview.jpg" >}}
 </div>
 
