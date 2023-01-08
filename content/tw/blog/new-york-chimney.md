@@ -51,3 +51,12 @@ thumbnail: img/new-york-chimney/chimney-1.jpg
 關於紐約大煙囪為何存在眾說紛紜，但我壓根沒打算了解背後的成因和化學原理。我才不管它到底是什麼、又是為了什麼目的矗立在那。
 
 我想這是我對於紐約僅存的浪漫：不願揭開所有關於這座城市的神秘面紗。
+
+<br>
+
+<div class="col-sm-12 col-md-8 mx-auto">
+{{< image src="img/new-york-chimney/chimney-4.jpg" >}}
+</div>
+
+
+<br>
