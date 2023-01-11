@@ -2,7 +2,7 @@
 author: "David Chen"
 slug: "出發德國圓一個留學夢"
 title: "出發德國圓一個留學夢"
-description: "秋 ・ 2020 — 留學德國"
+description: "秋 ・ 2020 — 留學日記"
 tags: ["拜羅伊特", "德國", "留學", "輔仁大學"]
 date: 2022-12-08
 thumbnail: img/realize-dream-germany/in-sky.jpg

@@ -3,7 +3,7 @@ canonifyURLs = false
 
 title = "茶米遊研"
 author = "David Chen"
-copyright = "Copyright © 2022 David Chen"
+copyright = "Copyright © 2023 David Chen"
 paginate = 9
 enableRobotsTXT = true
 languageCode = "tw"
