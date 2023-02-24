@@ -23,10 +23,10 @@
   url = "/tags/"
   weight = 40
 
-[[main]]
-  name = "贊助"
-  url = "https://xdavidchen.gumroad.com/l/subscribe"
-  weight = 50
+#[[main]]
+  #name = "贊助"
+  #url = "https://xdavidchen.gumroad.com/l/subscribe"
+  #weight = 50
 
 [[main]]
   name = "追蹤茶米"

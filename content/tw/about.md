@@ -67,9 +67,7 @@ showComments: false
 
 如果你是清醒的閱聽人，你應該早就知道現在的網路內容大部分品質低落，而在這裡你只會享受到最好的原創內容和故事。
 
-## 支持茶米
-
-### 社群媒體
+## 和茶米保持聯繫
 
 我的個人部落格就是我的社群媒體，也許你會看到我偶爾在 Facebook 或是 LinkedIn 上出沒，那是為了在部落格的草創時期讓更多人看到，告訴大家部落格才是真正適合享受閱讀、吸收整理資訊的好地方。
 
@@ -81,7 +79,7 @@ showComments: false
 
 [追蹤茶米](https://xdavidchen.com/zh-tw/%E8%BF%BD%E8%B9%A4/) ← 點這裡
 
-### 請客一杯珍奶
+<!-- ### 請客一杯珍奶
 
 如果你想要更頻繁的看到我的文章、支持我的內容，請考慮透過每月訂閱的方式[支持我](https://xdavidchen.gumroad.com/l/subscribe)，幫助我成全職創作者。
 
@@ -89,9 +87,11 @@ showComments: false
 
 [贊助茶米](https://xdavidchen.gumroad.com/l/subscribe) ← 點這裡
 
-### 廠商
+-->
 
-廠商洽談廣告、合作、贊助請來信[david@xdavidchen.com](mailto:david@xdavidchen.com)。
+## 廠商合作
+
+廠商洽談廣告、合作、贊助請來信：[david@xdavidchen.com](mailto:david@xdavidchen.com)。
 
 <!--
 <section class="section section-sm mt-5">
